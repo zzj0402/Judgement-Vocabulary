@@ -1,0 +1,1209 @@
+[302]:
+  - Spelling: 下
+    Categories[1]: COMP
+    Explanation: 直接将某人的价值或品质与其他人进行负面比较。
+    Example: 这个产品让我感到自卑。
+  - Spelling: 不一致的
+    Categories[1]: MJ
+    Explanation: 将某些事物诊断为“不一致”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全不一致的。
+  - Spelling: 不专业
+    Categories[1]: MJ
+    Explanation: 一个模糊的标签，用于批评工作环境中的行为，但不具体说明发生了什么。
+    Example: 她的着装非常不专业。
+  - Spelling: 不体贴的
+    Categories[1]: MJ
+    Explanation: 判断缺乏为他人着想。
+    Example: 大声播放音乐是不体贴的。
+  - Spelling: 不公平
+    Categories[1]: MJ
+    Explanation: 关于公平的道德判断。
+    Example: 她赢了，这不公平。
+  - Spelling: 不劳而获的
+    Categories[1]: DOL
+    Explanation: 对收到的事物做出没有足够优点的判断。
+    Example: 这是一种不劳而获的赞美。
+  - Spelling: 不可接受的
+    Categories[1]: MJ
+    Explanation: 完全拒绝某事的正式判决。
+    Example: 这种工作水平是不可接受的。
+  - Spelling: 不可能的
+    Categories[1]: DR
+    Explanation: 完全否认选择或行动的可能性。
+    Example: 我去是不可能的。
+  - Spelling: 不可避免的
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“不可避免的”）。
+    Example: 这是不可避免的，我无能为力。
+  - Spelling: 不可靠的
+    Categories[1]: MJ
+    Explanation: 判断某人不值得信任来执行某项任务。
+    Example: 他完全不可靠。
+  - Spelling: 不可靠的 (Flaky)
+    Categories[1]: MJ
+    Explanation: 给某人贴上不可靠的标签。
+    Example: 她太脆弱了，无法依赖。
+  - Spelling: 不合理
+    Categories[1]: MJ
+    Explanation: 判断某人的要求或观点不符合逻辑。
+    Example: 你这是无理取闹。
+  - Spelling: 不安
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“不安”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感到不安。
+  - Spelling: 不应该
+    Categories[2]: MD,MJ
+    Explanation: 消极的要求意味着做某事是错误的。
+    Example: 你不应该那样对我说话。
+  - Spelling: 不当
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“不当”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全不恰当的。
+  - Spelling: 不当
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“不适当”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全不恰当的。
+  - Spelling: 不愉快的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“不愉快”而不是进行客观观察的道德判断。
+    Example: 这种行为完全令人不愉快。
+  - Spelling: 不成熟的
+    Categories[1]: MJ
+    Explanation: 诊断行为尚未完全发展。
+    Example: 她的反应很不成熟。
+  - Spelling: 不支持的
+    Categories[1]: IDF
+    Explanation: 诊断缺乏他人的支持。
+    Example: 我感觉管理层不支持我。
+  - Spelling: 不敏感的
+    Categories[1]: MJ
+    Explanation: 诊断缺乏感觉或机智。
+    Example: 那是一个不敏感的玩笑。
+  - Spelling: 不知所措
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“不知所措”），描述一个人如何看待自己正在被对待。
+    Example: 当你说出这样的话时，我感到不知所措。
+  - Spelling: 不耐烦
+    Categories[1]: MJ
+    Explanation: 判断无法冷静等待。
+    Example: 他太不耐烦了。
+  - Spelling: 不能
+    Categories[1]: DR
+    Explanation: 常用于否认意愿而不是实际能力。
+    Example: 我现在无法处理这个问题。
+  - Spelling: 不被赏识的
+    Categories[1]: IDF
+    Explanation: 对他人感激程度的判断。
+    Example: 我感觉自己不受重视。
+  - Spelling: 不诚实
+    Categories[1]: MJ
+    Explanation: 将缺乏诚实标记为性格缺陷。
+    Example: 他是一个不诚实的人。
+  - Spelling: 不负责任的
+    Categories[1]: MJ
+    Explanation: 批评缺乏关怀或责任，而不是观察具体的未完成任务。
+    Example: 他是一个不负责任的员工。
+  - Spelling: 不足
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“不充分”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全不够的。
+  - Spelling: 不需要的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“不想要的”），描述一个人如何看待自己受到的对待。
+    Example: 当你说这样的话时，我感到不受欢迎。
+  - Spelling: 丑陋的
+    Categories[1]: MJ
+    Explanation: 对外表或本性的严厉判断。
+    Example: 那是一件丑陋的毛衣。
+  - Spelling: 专横的
+    Categories[1]: MJ
+    Explanation: 给负责人贴上标签，经常被轻蔑地使用。
+    Example: 别再这么专横了。
+  - Spelling: 业力
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“业力”）。
+    Example: 这只是业力，我无能为力。
+  - Spelling: 丢弃的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“被抛弃”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被抛弃了。
+  - Spelling: 严格的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“严格”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全严格的。
+  - Spelling: 令人发指的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“令人愤慨”而不是进行客观观察的道德判断。
+    Example: 这种行为完全令人愤慨。
+  - Spelling: 令人讨厌的
+    Categories[1]: MJ
+    Explanation: 对不愉快或冒犯性的强烈判断。
+    Example: 他的行为令人讨厌。
+  - Spelling: 优点
+    Categories[1]: DOL
+    Explanation: 将价值或奖励基于所表现的行动或质量。
+    Example: 晋升应基于绩效。
+  - Spelling: 优越的
+    Categories[1]: COMP
+    Explanation: 以某种方式对某人进行有利的比较，从而使他们与其他人保持距离。
+    Example: 她表现得比团队其他成员都优越。
+  - Spelling: 伪君子
+    Categories[1]: MJ
+    Explanation: 给那些行为与其既定信念相矛盾的人贴上标签。
+    Example: 你是个伪君子。
+  - Spelling: 伪造的
+    Categories[1]: MJ
+    Explanation: 诊断某人不真实。
+    Example: 他太假了。
+  - Spelling: 依赖的
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“依赖”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是依赖的。
+  - Spelling: 侮辱
+    Categories[1]: IDF
+    Explanation: 将别人的话诊断为攻击性攻击。
+    Example: 我觉得这个提议受到了侮辱。
+  - Spelling: 侵犯了
+    Categories[1]: IDF
+    Explanation: 诊断严重跨越个人界限。
+    Example: 我感到被侵犯了。
+  - Spelling: 便宜的
+    Categories[1]: MJ
+    Explanation: 将某物诊断为“廉价”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是廉价的。
+  - Spelling: 俗气的
+    Categories[1]: MJ
+    Explanation: 判断缺乏品味或风格。
+    Example: 那个装饰很俗气。
+  - Spelling: 假
+    Categories[1]: MJ
+    Explanation: 诊断某人欺诈或不诚实的标签。
+    Example: 他是个骗子。
+  - Spelling: 偏执狂
+    Categories[1]: MJ
+    Explanation: 诊断出极端的、非理性的恐惧或不信任。
+    Example: 你太偏执了。
+  - Spelling: 偏见
+    Categories[1]: MJ
+    Explanation: 诊断缺乏客观性。
+    Example: 你对他有偏见。
+  - Spelling: 傲慢的
+    Categories[1]: MJ
+    Explanation: 一个批评性的标签，描述某人夸大了自己的重要性。
+    Example: 他太傲慢了，不敢寻求帮助。
+  - Spelling: 光顾的
+    Categories[1]: IDF
+    Explanation: 将某人的语气理解为居高临下。
+    Example: 当你解释这样的事情时，我感到受宠若惊。
+  - Spelling: 公平份额
+    Categories[1]: DOL
+    Explanation: 对应得的东西的任意衡量，通常用于判断分配。
+    Example: 我没有得到我应得的份额。
+  - Spelling: 公平的
+    Categories[1]: DOL
+    Explanation: 通常用于根据武断的标准要求人们认为自己应得的东西。
+    Example: 这对我不公平。
+  - Spelling: 典型的
+    Categories[1]: COMP
+    Explanation: 将行动与预期规范进行比较，通常是轻蔑的。
+    Example: 这是他的典型回应。
+  - Spelling: 冒犯了
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“被冒犯”），描述一个人如何看待自己受到对待。
+    Example: 当你这么说时我感到被冒犯了。
+  - Spelling: 凌乱的
+    Categories[1]: MJ
+    Explanation: 对组织或清洁度的判断。
+    Example: 你的桌子很乱。
+  - Spelling: 减少了
+    Categories[1]: IDF
+    Explanation: 诊断别人的话对一个人的身材的影响。
+    Example: 在他面前我感到自己被削弱了。
+  - Spelling: 出色的
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“优秀”）。
+    Example: 与其他人相比，他们被认为是优秀的。
+  - Spelling: 击败
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“失败”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感到挫败。
+  - Spelling: 刑事
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“犯罪”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是犯罪行为。
+  - Spelling: 判断的
+    Categories[1]: IDF
+    Explanation: 一种解释是别人对你的评价是负面的。
+    Example: 我觉得我的家人在评判我。
+  - Spelling: 别无选择
+    Categories[1]: DR
+    Explanation: 否认存在替代行动。
+    Example: 我别无选择，只能解雇他。
+  - Spelling: 势利小人
+    Categories[1]: MJ
+    Explanation: 给那些认为自己在品味或阶级方面出类拔萃的人贴上标签。
+    Example: 她是个葡萄酒势利小人。
+  - Spelling: 压倒性的
+    Categories[1]: IDF
+    Explanation: 诊断他人的行为具有支配性。
+    Example: 我在讨论中感到不知所措。
+  - Spelling: 受到威胁
+    Categories[1]: IDF
+    Explanation: 诊断某人造成伤害的意图。
+    Example: 我对他的存在感到威胁。
+  - Spelling: 受到恐吓
+    Categories[1]: IDF
+    Explanation: 诊断他人的行为具有威胁性。
+    Example: 我对他的语气感到害怕。
+  - Spelling: 受到惩罚
+    Categories[1]: IDF
+    Explanation: 将某种行为解释为故意的惩罚。
+    Example: 我因为说出自己的想法而感到受到惩罚。
+  - Spelling: 受到攻击
+    Categories[1]: IDF
+    Explanation: 将他人的行为解释为攻击。
+    Example: 我在会议期间感到受到攻击。
+  - Spelling: 受压
+    Categories[1]: IDF
+    Explanation: 将他人的行为解释为施加力量。
+    Example: 我感到有压力才同意。
+  - Spelling: 受害的
+    Categories[1]: IDF
+    Explanation: 将自己解释为不公正行为的目标。
+    Example: 我感觉自己是体制的受害者。
+  - Spelling: 受控
+    Categories[1]: IDF
+    Explanation: 对他人统治意图的诊断。
+    Example: 我感觉自己被老板控制了。
+  - Spelling: 可怕
+    Categories[1]: MJ
+    Explanation: 暗示极端消极的普遍道德标签。
+    Example: 这是一件可怕的事情。
+  - Spelling: 可怕
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“可怕”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是可怕的。
+  - Spelling: 可怜的
+    Categories[1]: MJ
+    Explanation: 暗示某人可怜或不足的严厉判断。
+    Example: 这个借口很可悲。
+  - Spelling: 可恶
+    Categories[1]: MJ
+    Explanation: 将意图诊断为源于强烈的厌恶。
+    Example: 她发表了充满仇恨的言论。
+  - Spelling: 可恶的
+    Categories[1]: MJ
+    Explanation: 高度不愉快或怨恨的判断。
+    Example: 这是一件令人讨厌的事情。
+  - Spelling: 听写
+    Categories[1]: MD
+    Explanation: 权威地制定规则或命令。
+    Example: 不要试图主宰我的生活。
+  - Spelling: 命令
+    Categories[1]: MD
+    Explanation: 期望服从的权威要求。
+    Example: 我命令你停下来。
+  - Spelling: 命运
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“命运”）。
+    Example: 这只是命运，我无能为力。
+  - Spelling: 命运
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“命运”）。
+    Example: 这只是命运，我无能为力。
+  - Spelling: 咄咄逼人的
+    Categories[1]: MJ
+    Explanation: 判断某人过于自信或要求过高。
+    Example: 推销员可能非常咄咄逼人。
+  - Spelling: 哑的
+    Categories[1]: MJ
+    Explanation: 针对智商的侮辱。
+    Example: 这是个愚蠢的问题。
+  - Spelling: 固执的
+    Categories[1]: MJ
+    Explanation: 判断某人拒绝改变想法或行为的情况。
+    Example: 她太固执了，不愿意妥协。
+  - Spelling: 在后面
+    Categories[1]: COMP
+    Explanation: 建立层次结构或针对其他人设定标准的比较（“后面”）。
+    Example: 与其他人相比，他们被认为落后。
+  - Spelling: 坏的
+    Categories[1]: MJ
+    Explanation: 暗示负面价值的普遍道德标签。
+    Example: 他是一个坏人。
+  - Spelling: 坚持
+    Categories[1]: MD
+    Explanation: 坚决的要求，不容拒绝。
+    Example: 我坚持要你留下来。
+  - Spelling: 基本的
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的苛刻表达（“必要”）。
+    Example: 必须立即完成此操作。
+  - Spelling: 复仇
+    Categories[1]: DOL
+    Explanation: 应得导向的语言（“复仇”）暗示着奖励、惩罚或有条件价值的制度。
+    Example: 他们收到了报复。
+  - Spelling: 大声
+    Categories[1]: MJ
+    Explanation: 当用于评判时，它批评音量而不是表达对安静的偏好。
+    Example: 她太大声了。
+  - Spelling: 失去
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“失败”）。
+    Example: 与其他人相比，他们被认为是失败者。
+  - Spelling: 失望的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“失望”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感到很失望。
+  - Spelling: 失败
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“失败”）。
+    Example: 与其他人相比，他们被认为是失败的。
+  - Spelling: 失败者
+    Categories[1]: MJ
+    Explanation: 对某人的整体价值或成功的严厉、全面的判断。
+    Example: 他是一个彻头彻尾的失败者。
+  - Spelling: 奇异的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“怪异”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是奇怪的。
+  - Spelling: 奖
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“奖品”）暗示着奖励、惩罚或有条件价值的制度。
+    Example: 他们收到了他们应得的奖品。
+  - Spelling: 好的
+    Categories[1]: MJ
+    Explanation: 积极的道德判断仍然是评估而不是观察。
+    Example: 他是个好孩子。
+  - Spelling: 妄想的
+    Categories[1]: MJ
+    Explanation: 否认某人的观点完全脱离现实。
+    Example: 如果他相信这一点，他就是在妄想。
+  - Spelling: 嫉妒的
+    Categories[1]: MJ
+    Explanation: 诊断某人的感觉是嫉妒或保护。
+    Example: 你只是嫉妒而已。
+  - Spelling: 孤立
+    Categories[1]: IDF
+    Explanation: 将环境或其他人解释为将彼此分开。
+    Example: 我在这个部门感到孤立。
+  - Spelling: 完美的
+    Categories[1]: MJ
+    Explanation: 对完美无瑕的判断设定了一个不可能的标准。
+    Example: 她总是努力做到完美。
+  - Spelling: 害虫
+    Categories[1]: MJ
+    Explanation: 将某物诊断为“害虫”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是害虫。
+  - Spelling: 容忍的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“容忍”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感到可以容忍。
+  - Spelling: 小气
+    Categories[1]: MJ
+    Explanation: 认为行为或担忧是琐碎且卑鄙的。
+    Example: 他们正在为一些小事争论。
+  - Spelling: 左边
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“左”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感觉自己被抛弃了。
+  - Spelling: 平均的
+    Categories[1]: COMP
+    Explanation: 最大限度地减少个人独特性的比较标签。
+    Example: 他只是一个普通的学生。
+  - Spelling: 幼稚
+    Categories[1]: MJ
+    Explanation: 通过将其与不成熟的孩子进行比较来驳斥这种行为。
+    Example: 你的反应很幼稚。
+  - Spelling: 幼稚的
+    Categories[1]: MJ
+    Explanation: 判断缺乏经验或智慧。
+    Example: 你太天真了，无法理解。
+  - Spelling: 应得
+    Categories[1]: DOL
+    Explanation: 暗示某些行为需要奖励或惩罚。
+    Example: 他应该受到惩罚。
+  - Spelling: 应该
+    Categories[2]: MD,MJ
+    Explanation: 暗示道德义务或要求。
+    Example: 你应该去看望你的母亲。
+  - Spelling: 应该
+    Categories[2]: MD,MJ
+    Explanation: 与“应该”类似，暗示道德义务或要求。
+    Example: 你应该多去看望你的母亲。
+  - Spelling: 应该
+    Categories[2]: MD,MJ
+    Explanation: 将愿望表达为要求并暗示责备。
+    Example: 你应该更清楚。
+  - Spelling: 应该
+    Categories[1]: DR
+    Explanation: 指模糊的外部规则或期望来证明行动的合理性。
+    Example: 我应该八点到那里。
+  - Spelling: 异常
+    Categories[1]: COMP
+    Explanation: 通过将某人与某个标准进行不利比较来判断某人。
+    Example: 他的反应完全不正常。
+  - Spelling: 异常
+    Categories[1]: COMP
+    Explanation: 将某事与标准进行比较，巧妙地判断它。
+    Example: 他的方法非常不寻常。
+  - Spelling: 异常的
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“例外”）。
+    Example: 与其他人相比，他们被认为是特殊的。
+  - Spelling: 弃
+    Categories[1]: IDF
+    Explanation: 将他人身体或情感上的缺席解释为故意针对自己的行为。
+    Example: 我感觉被抛弃了。
+  - Spelling: 强制的
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的苛刻表达（“强制性”）。
+    Example: 必须立即完成此操作。
+  - Spelling: 强加的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“强加的”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被强迫了。
+  - Spelling: 徒劳的
+    Categories[1]: MJ
+    Explanation: 判断对一个人的外表或成就过度自豪。
+    Example: 她太虚荣了，不敢戴眼镜。
+  - Spelling: 必要性
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的苛刻表达（“必要性”）。
+    Example: 这必须立即完成。
+  - Spelling: 必需的
+    Categories[1]: DR
+    Explanation: 意味着外部授权消除了选择。
+    Example: 需出席。
+  - Spelling: 必须
+    Categories[1]: DR
+    Explanation: 通过暗示人们被迫采取行动来掩盖个人选择。
+    Example: 我得去上班了。
+  - Spelling: 必须
+    Categories[1]: DR
+    Explanation: 意味着外部强迫，拒绝选择。
+    Example: 我今晚必须完成这个。
+  - Spelling: 忘记了
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“被遗忘”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被遗忘了。
+  - Spelling: 怀疑
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“可疑”而不是进行客观观察的道德判断。
+    Example: 这种行为完全值得怀疑。
+  - Spelling: 总的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“粗俗”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是恶心的。
+  - Spelling: 恶意的
+    Categories[1]: MJ
+    Explanation: 将某些事物诊断为“恶意”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是恶意的。
+  - Spelling: 恶毒
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“邪恶”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是恶毒的。
+  - Spelling: 恶毒的
+    Categories[1]: MJ
+    Explanation: 一种带有性别色彩的侮辱性标签，诊断某人恶意或令人不快。
+    Example: 她表现得很恶毒。
+  - Spelling: 恼人的
+    Categories[1]: MJ
+    Explanation: 诊断他人而不是承认自己的恼怒。
+    Example: 她真烦人。
+  - Spelling: 悲惨的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“悲惨”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是可悲的。
+  - Spelling: 情不自禁
+    Categories[1]: DR
+    Explanation: 声称对自己的行为缺乏控制。
+    Example: 我大喊大叫，因为我无法控制。
+  - Spelling: 惩治
+    Categories[1]: DOL
+    Explanation: 某人应该因某种行为而受苦的概念。
+    Example: 她必须因为撒谎而受到惩罚。
+  - Spelling: 惩罚
+    Categories[1]: DOL
+    Explanation: 因违反规则而受到的惩罚。
+    Example: 逾期付款将受到处罚。
+  - Spelling: 意思是
+    Categories[1]: MJ
+    Explanation: 诊断恶意的标签。
+    Example: 别这么刻薄。
+  - Spelling: 愚蠢的
+    Categories[1]: MJ
+    Explanation: 判断某行为缺乏理智或判断力。
+    Example: 相信他是愚蠢的。
+  - Spelling: 愚蠢的
+    Categories[1]: MJ
+    Explanation: 诊断或批评某人智力而不是观察事实的标签。
+    Example: 那是一个愚蠢的错误。
+  - Spelling: 愤世嫉俗的
+    Categories[1]: MJ
+    Explanation: 诊断出悲观或不信任的世界观。
+    Example: 你太愤世嫉俗了。
+  - Spelling: 慢的
+    Categories[1]: MJ
+    Explanation: 当用于评判时，批评智力或速度。
+    Example: 他的理解有点慢。
+  - Spelling: 懒惰的
+    Categories[1]: MJ
+    Explanation: 暗示道德失败或缺乏品格，而不是描述具体行为。
+    Example: 他懒得打扫房间。
+  - Spelling: 懦夫
+    Categories[1]: MJ
+    Explanation: 诊断缺乏勇气的标签。
+    Example: 你是个胆小鬼，不说话。
+  - Spelling: 所欠的
+    Categories[1]: DOL
+    Explanation: 相信某事是应有的权利。
+    Example: 我欠一个解释。
+  - Spelling: 打折的
+    Categories[1]: IDF
+    Explanation: 一个人的输入被忽略的解释。
+    Example: 我感觉我的想法被打了折扣。
+  - Spelling: 批评的
+    Categories[1]: IDF
+    Explanation: 对别人反馈的解释。
+    Example: 我感觉自己不断受到批评。
+  - Spelling: 报酬
+    Categories[1]: DOL
+    Explanation: 与惩罚相对应，意味着有条件的积极关注。
+    Example: 如果你表现得好，你就会得到奖励。
+  - Spelling: 指责
+    Categories[1]: IDF
+    Explanation: 一种解释是别人让你负责。
+    Example: 我总觉得一切都被指责。
+  - Spelling: 挑衅的
+    Categories[1]: MJ
+    Explanation: 将某人标记为容易受到攻击，而不是描述他们的行为。
+    Example: 你太激进了。
+  - Spelling: 排除
+    Categories[1]: IDF
+    Explanation: 将群体的行为解释为故意排除其中的一个。
+    Example: 我感觉自己被排除在谈话之外。
+  - Spelling: 推
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“推动”），描述一个人如何看待自己受到的对待。
+    Example: 当你说这样的话时，我感到很紧迫。
+  - Spelling: 政策
+    Categories[1]: DR
+    Explanation: 使用组织规则来否认个人代理。
+    Example: 这是公司政策。
+  - Spelling: 敌对的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“敌对”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是敌对的。
+  - Spelling: 无力
+    Categories[1]: DR
+    Explanation: 完全否认个人代理。
+    Example: 在这种情况下我无能为力。
+  - Spelling: 无形的
+    Categories[1]: IDF
+    Explanation: 对他人如何看待自己的解释。
+    Example: 在这些聚会上我感觉自己被忽视了。
+  - Spelling: 无思想的
+    Categories[1]: MJ
+    Explanation: 认为缺乏对他人的考虑。
+    Example: 你忘记了，真是太不考虑了。
+  - Spelling: 无效的
+    Categories[1]: IDF
+    Explanation: 将别人的反应解释为否认自己的现实。
+    Example: 当我表达自己时，我感到自己是无效的。
+  - Spelling: 无法
+    Categories[1]: DR
+    Explanation: 通常用缺乏意愿来代替缺乏能力。
+    Example: 我无法帮助你。
+  - Spelling: 无用
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“无用”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全没有用的。
+  - Spelling: 无知
+    Categories[1]: MJ
+    Explanation: 判断缺乏知识或意识。
+    Example: 他不了解事实。
+  - Spelling: 无礼的
+    Categories[1]: MJ
+    Explanation: 判断行为缺乏尊重或礼貌。
+    Example: 那个评论是不尊重的。
+  - Spelling: 无聊的
+    Categories[1]: MJ
+    Explanation: 判断主题而不是表达自己缺乏兴趣。
+    Example: 这个讲座很无聊。
+  - Spelling: 无能的
+    Categories[1]: MJ
+    Explanation: 对某人的能力或技能的全面判断。
+    Example: 整个工作人员都无能。
+  - Spelling: 普通的
+    Categories[1]: COMP
+    Explanation: 将个人与任意的可接受标准进行比较。
+    Example: 你为什么就不能正常一点呢？
+  - Spelling: 普通的
+    Categories[1]: COMP
+    Explanation: 将某人与普通人进行比较，通常意味着缺乏特殊性。
+    Example: 这只是一场普通的表演。
+  - Spelling: 更好做
+    Categories[1]: MD
+    Explanation: 如果要求未得到满足，则暗示威胁。
+    Example: 你最好把你的房间打扫干净，否则。
+  - Spelling: 更好的
+    Categories[1]: COMP
+    Explanation: 这种比较会建立等级制度并可能阻碍同情心。
+    Example: 她比你更善于倾听。
+  - Spelling: 更糟
+    Categories[1]: COMP
+    Explanation: 消极的比较意味着自卑。
+    Example: 他的表现比去年更差。
+  - Spelling: 更聪明
+    Categories[1]: COMP
+    Explanation: 比较智力，建立等级制度。
+    Example: 他认为自己比其他人都聪明。
+  - Spelling: 最伟大的
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“最大”）。
+    Example: 与其他人相比，他们被认为是最伟大的。
+  - Spelling: 最低
+    Categories[1]: COMP
+    Explanation: 建立层次结构或针对其他人设定标准的比较（“最低”）。
+    Example: 与其他人相比，他们被认为是最低的。
+  - Spelling: 最后通牒
+    Categories[1]: MD
+    Explanation: 最后的要求伴随着威胁。
+    Example: 她给了我最后通牒。
+  - Spelling: 最好的
+    Categories[1]: COMP
+    Explanation: 最终的正面比较，设定层次结构。
+    Example: 她是最好的员工。
+  - Spelling: 最糟糕的
+    Categories[1]: COMP
+    Explanation: 最终的负面比较。
+    Example: 那是有史以来最糟糕的电影。
+  - Spelling: 最高
+    Categories[1]: COMP
+    Explanation: 建立层次结构或针对其他人设定标准的比较（“最高”）。
+    Example: 与其他人相比，他们被认为是最高的。
+  - Spelling: 最高
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“最高”）。
+    Example: 与其他人相比，他们被认为是至高无上的。
+  - Spelling: 有义务的
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“义务”）。
+    Example: 这只是义务，我无能为力。
+  - Spelling: 有权
+    Categories[1]: DOL
+    Explanation: 相信自己天生就应该享有特权或特殊待遇。
+    Example: 他表现得很有权。
+  - Spelling: 有权
+    Categories[1]: DOL
+    Explanation: 通常用于证明要求或权利的合理性，而不考虑他人的需求。
+    Example: 我有权利生气。
+  - Spelling: 有毒的
+    Categories[1]: MJ
+    Explanation: 一种流行的标签，用于广泛判断人或环境是否有害。
+    Example: 她是一个有毒的朋友。
+  - Spelling: 有缺陷的
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“有缺陷”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全有缺陷的。
+  - Spelling: 有缺陷的
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“有缺陷”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全有缺陷的。
+  - Spelling: 有罪的
+    Categories[1]: MJ
+    Explanation: 对罪责的道德或法律判断。
+    Example: 他犯有撒谎罪。
+  - Spelling: 有针对性的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“有针对性的”），描述一个人如何看待他们正在被对待。
+    Example: 当你这么说的时候，我感觉自己是被针对的。
+  - Spelling: 有需要的
+    Categories[1]: MJ
+    Explanation: 对表达渴望联系或支持的人的负面评价。
+    Example: 她今天表现得非常需要帮助。
+  - Spelling: 服从
+    Categories[1]: DR
+    Explanation: 通过将行动归因于以下命令来否认责任。
+    Example: 我只是听从命令而已。
+  - Spelling: 权利
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“权利”）暗示着奖励、惩罚或有条件价值的制度。
+    Example: 他们得到了他们应得的权利。
+  - Spelling: 杰出的
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“杰出”）。
+    Example: 与其他人相比，他们被认为是杰出的。
+  - Spelling: 极端
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“极端”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是极端的。
+  - Spelling: 次要的
+    Categories[1]: COMP
+    Explanation: 建立层次结构或针对其他人设定标准的比较（“次要”）。
+    Example: 与其他的相比，它们被认为是次要的。
+  - Spelling: 欢迎
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“欢迎”），描述人们如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感到很受欢迎。
+  - Spelling: 欺诈罪
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“欺诈”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是欺诈行为。
+  - Spelling: 正义
+    Categories[1]: DOL
+    Explanation: 通常用于寻求基于“应得”的惩罚或报应。
+    Example: 我们要求为这一罪行伸张正义。
+  - Spelling: 正确的
+    Categories[1]: DOL
+    Explanation: 通常用于证明要求或权利的合理性，而不考虑他人的需求。
+    Example: 我有权利生气。
+  - Spelling: 歪
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“歪曲”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是歪曲的。
+  - Spelling: 死板的
+    Categories[1]: MJ
+    Explanation: 判断缺乏灵活性。
+    Example: 他的思想太僵化了。
+  - Spelling: 残忍的
+    Categories[1]: MJ
+    Explanation: 将行为标记为故意造成疼痛。
+    Example: 这真是一个残酷的玩笑。
+  - Spelling: 残酷的
+    Categories[1]: MJ
+    Explanation: 认为语气或动作粗暴得令人不快。
+    Example: 这是一个严厉的批评。
+  - Spelling: 毁了
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“被毁”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被毁了。
+  - Spelling: 浅
+    Categories[1]: MJ
+    Explanation: 判断缺乏深度或真实性。
+    Example: 他们的关系看起来很肤浅。
+  - Spelling: 浅的
+    Categories[1]: MJ
+    Explanation: 判断缺乏深度或严肃的思想。
+    Example: 她只关心外表；她是如此浅薄。
+  - Spelling: 浪费
+    Categories[1]: MJ
+    Explanation: 将某物诊断为“浪费”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是浪费。
+  - Spelling: 滋扰
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“滋扰”而不是进行客观观察的道德判断。
+    Example: 这种行为完全令人讨厌。
+  - Spelling: 激怒了
+    Categories[1]: IDF
+    Explanation: 将他人的行为诊断为有意触发。
+    Example: 我感到被激怒了。
+  - Spelling: 烦恼
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“困扰”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时我感到很困扰。
+  - Spelling: 爬行
+    Categories[1]: MJ
+    Explanation: 诊断某人引起恐惧或不安。
+    Example: 他是一个令人毛骨悚然的家伙。
+  - Spelling: 犯规
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“肮脏”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是犯规的。
+  - Spelling: 生病的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“病态”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是病态的。
+  - Spelling: 用过的
+    Categories[1]: IDF
+    Explanation: 诊断他人的行为是剥削性的。
+    Example: 我感觉被利用了。
+  - Spelling: 疯狂的
+    Categories[1]: MJ
+    Explanation: 认为某人的想法或感受是非理性的。
+    Example: 你疯了？
+  - Spelling: 疯狂的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“疯狂”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是疯狂的。
+  - Spelling: 痴迷的
+    Categories[1]: MJ
+    Explanation: 判断某人的注意力不健康或过度。
+    Example: 她对自己的体重很着迷。
+  - Spelling: 瘸
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“蹩脚”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是蹩脚的。
+  - Spelling: 看不见
+    Categories[1]: IDF
+    Explanation: 将他人解释为没有注意到自己。
+    Example: 我感觉自己看不见了
+  - Spelling: 破坏性的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“破坏性”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是破坏性的。
+  - Spelling: 神经质的
+    Categories[1]: MJ
+    Explanation: 用于判断焦虑或控制问题的伪心理标签。
+    Example: 别再对日程那么神经质了。
+  - Spelling: 窒息的
+    Categories[1]: IDF
+    Explanation: 将别人的注意力解释为过度限制。
+    Example: 我对你的感情感到窒息。
+  - Spelling: 窒息的
+    Categories[1]: IDF
+    Explanation: 类似于窒息；诊断对方的行为限制自由。
+    Example: 我在这段关系中感到窒息。
+  - Spelling: 笨拙
+    Categories[1]: MJ
+    Explanation: 关于身体协调性的关键标签。
+    Example: 他太笨拙了。
+  - Spelling: 笨蛋
+    Categories[1]: MJ
+    Explanation: 针对智商的强烈侮辱。
+    Example: 别是个白痴。
+  - Spelling: 粗心
+    Categories[1]: MJ
+    Explanation: 诊断某人的注意力或关注程度。
+    Example: 那是一个粗心的错误。
+  - Spelling: 粗暴的 (Abrasive)
+    Categories[1]: MJ
+    Explanation: 判断某人的态度过于严厉。
+    Example: 他性格粗暴。
+  - Spelling: 粗鲁的
+    Categories[1]: MJ
+    Explanation: 对某人的举止的判断，而不是表达他们的行为如何影响你。
+    Example: 他提早离开是不礼貌的。
+  - Spelling: 糟糕的
+    Categories[1]: MJ
+    Explanation: 强烈的负面判断。
+    Example: 食物很糟糕。
+  - Spelling: 紧迫的
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的苛刻表达（“紧急”）。
+    Example: 当务之急是立即完成这项工作。
+  - Spelling: 结果
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“结果”）暗示着奖励、惩罚或有条件价值的系统。
+    Example: 他们收到了他们所面临的后果。
+  - Spelling: 缺乏
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“缺乏”）。
+    Example: 与其他人相比，他们被认为是缺乏的。
+  - Spelling: 缺乏的
+    Categories[1]: COMP
+    Explanation: 建立等级制度或针对其他人设定标准的比较（“不足”）。
+    Example: 与其他人相比，他们被认为是有缺陷的。
+  - Spelling: 美好的
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“良好”）暗示着奖励、惩罚或有条件价值的制度。
+    Example: 他们收到了他们收到的罚款。
+  - Spelling: 肮脏的
+    Categories[1]: MJ
+    Explanation: 以道德的方式判断清洁度。
+    Example: 他的房间很脏。
+  - Spelling: 胁迫的
+    Categories[1]: IDF
+    Explanation: 诊断他人的行为是施加不当压力。
+    Example: 我感觉自己被迫签署了这份文件。
+  - Spelling: 脆弱的
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“脆弱”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全脆弱的。
+  - Spelling: 腐败
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“腐败”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是腐败的。
+  - Spelling: 自恋者
+    Categories[1]: MJ
+    Explanation: 一个经常被误用为自私判断标签的临床术语。
+    Example: 我的前任是一个自恋者。
+  - Spelling: 自私
+    Categories[1]: MJ
+    Explanation: 诊断某人的动机是只关心自己。
+    Example: 你不分享是自私的表现。
+  - Spelling: 自负
+    Categories[1]: MJ
+    Explanation: 判断某人过于骄傲。
+    Example: 她很自负。
+  - Spelling: 臭名昭著
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“臭名昭著”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是臭名昭著的。
+  - Spelling: 至关重要的
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的苛刻表达（“关键”）。
+    Example: 立即完成这项工作至关重要。
+  - Spelling: 至关重要的
+    Categories[1]: MD
+    Explanation: 限制选择或坚持结果的要求性表达（“势在必行”）。
+    Example: 必须立即完成这项工作。
+  - Spelling: 致命
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“致命”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全致命的。
+  - Spelling: 致命的
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“致命”而不是进行客观观察的道德判断。
+    Example: 这种行为是完全致命的。
+  - Spelling: 苦的
+    Categories[1]: MJ
+    Explanation: 判断某人的情绪状态为怨恨。
+    Example: 他只是对过去感到痛苦。
+  - Spelling: 荒诞
+    Categories[1]: MJ
+    Explanation: 认为某些事情极其不合理而予以驳回。
+    Example: 这是一个荒谬的想法。
+  - Spelling: 荒谬的
+    Categories[1]: MJ
+    Explanation: 认为某些事情值得嘲笑。
+    Example: 这身衣服真搞笑。
+  - Spelling: 虚弱的
+    Categories[1]: MJ
+    Explanation: 关于某人的决心或力量的关键标签。
+    Example: 他太弱了，无法为自己挺身而出。
+  - Spelling: 被剥削
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“利用”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感觉自己被剥削了。
+  - Spelling: 被取代
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“取代”），描述一个人如何看待自己正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被取代了。
+  - Spelling: 被困
+    Categories[1]: IDF
+    Explanation: 将情况或其他情况解释为阻止逃跑。
+    Example: 我感觉自己被困在这份工作中。
+  - Spelling: 被宠坏的
+    Categories[1]: MJ
+    Explanation: 认为某人因为得到了他们想要的一切而毁了。
+    Example: 他表现得像个被宠坏的孩子。
+  - Spelling: 被忽略
+    Categories[1]: IDF
+    Explanation: 对别人正在做的事情的解释，而不是真正的内心情感。
+    Example: 我感觉被你忽视了。
+  - Spelling: 被忽视的
+    Categories[1]: IDF
+    Explanation: 将别人的不作为解释为故意失败。
+    Example: 我感觉被忽视了。
+  - Spelling: 被忽视的
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“被忽视”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被忽视了。
+  - Spelling: 被打断
+    Categories[1]: IDF
+    Explanation: 对某人做了什么的描述，伪装成一种感觉。
+    Example: 我感觉被打扰了。
+  - Spelling: 被抛弃
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“抛弃”），描述一个人如何看待他们正在被对待。
+    Example: 当你说出这样的话时，我感觉自己被抛弃了。
+  - Spelling: 被拒绝
+    Categories[1]: IDF
+    Explanation: 将一个动作解释为将自己推开。
+    Example: 我感到被拒绝了。
+  - Spelling: 被操纵的
+    Categories[1]: IDF
+    Explanation: 描述对其他人意图的感知。
+    Example: 我感觉自己被操纵了。
+  - Spelling: 被欺负
+    Categories[1]: IDF
+    Explanation: 诊断他人的行为是故意恐吓。
+    Example: 我感觉自己被同事欺负了。
+  - Spelling: 被破坏的
+    Categories[1]: IDF
+    Explanation: 诊断出故意破坏某人的努力。
+    Example: 我感觉我的工作正在被破坏。
+  - Spelling: 被背叛
+    Categories[1]: IDF
+    Explanation: 将他人的行为诊断为破坏信任。
+    Example: 我觉得你的决定背叛了我。
+  - Spelling: 被虐待
+    Categories[1]: IDF
+    Explanation: 对别人如何对待你的解释，而不是内心的感受。
+    Example: 我感觉自己被系统虐待了。
+  - Spelling: 被解雇
+    Categories[1]: IDF
+    Explanation: 一种伪装成一种感觉的解释（“驳回”），描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感到被解雇了。
+  - Spelling: 被误解
+    Categories[1]: IDF
+    Explanation: 对他人理解水平的诊断。
+    Example: 我感觉被误解了。
+  - Spelling: 被贬低
+    Categories[1]: IDF
+    Explanation: 诊断出对方意图贬低你的价值。
+    Example: 当你这样做时我感到被贬低了。
+  - Spelling: 被践踏
+    Categories[1]: IDF
+    Explanation: 将自己的界限解释为被积极地跨越。
+    Example: 我感觉自己被践踏了。
+  - Spelling: 被踩踏 (Stepped on)
+    Categories[1]: IDF
+    Explanation: 一种伪装成感觉的解释，描述一个人如何看待自己受到的对待。
+    Example: 当你说出这样的话时，我感觉自己被踩到了。
+  - Spelling: 被迫
+    Categories[1]: DR
+    Explanation: 暗示着一种不可抗拒的力量决定行动。
+    Example: 我觉得有必要说出来。
+  - Spelling: 被迫
+    Categories[1]: DR
+    Explanation: 明确否认在某种情况下的代理权。
+    Example: 我被迫撒谎。
+  - Spelling: 被迫
+    Categories[1]: DR
+    Explanation: 明确否认在某种情况下的代理权。
+    Example: 我被迫撒谎。
+  - Spelling: 被骗了
+    Categories[1]: IDF
+    Explanation: 将别人的行为解释为欺骗性的剥夺。
+    Example: 我感觉我的奖品被骗了。
+  - Spelling: 要求
+    Categories[1]: MD
+    Explanation: 明确提出要求，不顾及对方的需要。
+    Example: 我要求道歉。
+  - Spelling: 要求
+    Categories[1]: MD
+    Explanation: 规定某事为强制性的。
+    Example: 我们需要您的出席。
+  - Spelling: 要求严格
+    Categories[1]: MJ
+    Explanation: 给某人贴上要求太多的标签。
+    Example: 我的老板要求很高。
+  - Spelling: 视为理所当然
+    Categories[1]: IDF
+    Explanation: 对别人缺乏欣赏的判断。
+    Example: 我觉得这里被视为理所当然。
+  - Spelling: 订单
+    Categories[1]: DR
+    Explanation: 将责任转移给权威人物。
+    Example: 我只是听从命令。
+  - Spelling: 让我
+    Categories[1]: DR
+    Explanation: 否认对自己的感受和行为负责，将其归因于外部因素。
+    Example: 你让我很生气。
+  - Spelling: 诡异的
+    Categories[1]: MJ
+    Explanation: 判断某事是奇怪的或不正常的。
+    Example: 这是一个奇怪的爱好。
+  - Spelling: 说谎者
+    Categories[1]: MJ
+    Explanation: 通过不诚实来定义一个人的标签。
+    Example: 你是个骗子。
+  - Spelling: 责任
+    Categories[1]: DR
+    Explanation: 利用外部义务来否认个人选择。
+    Example: 我有责任报告此事。
+  - Spelling: 责备
+    Categories[1]: MJ
+    Explanation: 指责错误而不是承担责任或寻求理解。
+    Example: 我把这混乱归咎于你。
+  - Spelling: 贪婪的
+    Categories[1]: MJ
+    Explanation: 判断某人对资源的渴望过度。
+    Example: 他们只是贪婪的公司。
+  - Spelling: 贫穷的
+    Categories[1]: MJ
+    Explanation: 将某事物诊断为“差”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是糟糕的。
+  - Spelling: 赔偿
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“补偿”）意味着奖励、惩罚或有条件的价值体系。
+    Example: 他们收到了应有的补偿。
+  - Spelling: 赚
+    Categories[1]: DOL
+    Explanation: 表明必须有条件地获得积极的治疗或基本需求。
+    Example: 你必须赢得我的尊重。
+  - Spelling: 走投无路
+    Categories[1]: IDF
+    Explanation: 将他人的行为解释为无处可逃。
+    Example: 我被你的问题逼得走投无路了。
+  - Spelling: 踌躇满志
+    Categories[1]: MJ
+    Explanation: 判断某人对自己表现出过度的骄傲。
+    Example: 擦去你脸上那副得意的表情。
+  - Spelling: 较小的
+    Categories[1]: COMP
+    Explanation: 向下比较价值或重要性。
+    Example: 他把他们视为低等生物。
+  - Spelling: 辜负
+    Categories[1]: IDF
+    Explanation: 对某人未能达到期望的判断。
+    Example: 当你没有出现时，我感到很失望。
+  - Spelling: 过错
+    Categories[1]: MJ
+    Explanation: 指责而不是分析情况。
+    Example: 这是你的错。
+  - Spelling: 运气
+    Categories[1]: DR
+    Explanation: 用于否认个人责任或代理的概念（“运气”）。
+    Example: 这只是运气，我无能为力。
+  - Spelling: 还款
+    Categories[1]: DOL
+    Explanation: 以应得为导向的语言（“回报”）暗示着奖励、惩罚或有条件价值的制度。
+    Example: 他们得到了应有的回报。
+  - Spelling: 这是你的错
+    Categories[1]: DR
+    Explanation: 将某种情况的责任完全转移到别人身上。
+    Example: 我们迟到都是你的错。
+  - Spelling: 进攻
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“令人反感”的道德判断，而不是进行客观观察。
+    Example: 这种行为完全是无礼的。
+  - Spelling: 邪恶
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“邪恶”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是邪恶的。
+  - Spelling: 邪恶的
+    Categories[1]: MJ
+    Explanation: 对深刻邪恶的极端道德判断。
+    Example: 她是纯粹的邪恶。
+  - Spelling: 野蛮
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“残酷”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是残酷的。
+  - Spelling: 错误的
+    Categories[1]: MJ
+    Explanation: 将行为归类为不正确或不道德的二元判断。
+    Example: 你做错了方法。
+  - Spelling: 闻所未闻
+    Categories[1]: IDF
+    Explanation: 诊断对方没有倾听。
+    Example: 我感觉闻所未闻。
+  - Spelling: 防御性的
+    Categories[1]: MJ
+    Explanation: 认为某人的反应过于保护，而不是探索他们的需求。
+    Example: 不要采取防御措施。
+  - Spelling: 险恶
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“险恶”而不是进行客观观察的道德判断。
+    Example: 这种行为完全是险恶的。
+  - Spelling: 难以置信
+    Categories[1]: MJ
+    Explanation: 将某事诊断为“难以置信”而不是进行客观观察的道德判断。
+    Example: 这种行为完全令人难以置信。
+  - Spelling: 难的
+    Categories[1]: MJ
+    Explanation: 暗示某人难以相处的模糊标签。
+    Example: 她是个很难相处的顾客。
+  - Spelling: 需要
+    Categories[1]: MD
+    Explanation: 用于要求他人采取具体行动而不是表达个人要求时。
+    Example: 我需要你立即解决这个问题。
+  - Spelling: 非理性的
+    Categories[1]: MJ
+    Explanation: 否定某人思维过程中的逻辑或理性。
+    Example: 你的恐惧是完全不合理的。
+  - Spelling: 预计
+    Categories[1]: MD
+    Explanation: 将欲望视为一种既定权利，这可能会让人感觉要求很高。
+    Example: 我希望你准备好晚餐。
+  - Spelling: 马虎的
+    Categories[1]: MJ
+    Explanation: 法官的工作或外表都粗心大意。
+    Example: 这份报告很草率。
+  - Spelling: 骚扰
+    Categories[1]: IDF
+    Explanation: 将他人的行为诊断为攻击性压力或恐吓。
+    Example: 我对这些电话感到骚扰。
