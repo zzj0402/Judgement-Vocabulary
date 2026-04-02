@@ -96,6 +96,14 @@
     "Example": "He is a bad person."
   },
   {
+    "Spelling": "behind",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('behind') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered behind compared to the rest."
+  },
+  {
     "Spelling": "belittled",
     "Categories": [
       "IDF"
@@ -160,6 +168,14 @@
     "Example": "He is just bitter about the past."
   },
   {
+    "Spelling": "bizarre",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'bizarre' rather than making an objective observation.",
+    "Example": "That behavior is entirely bizarre."
+  },
+  {
     "Spelling": "blame",
     "Categories": [
       "MJ"
@@ -192,6 +208,22 @@
     "Example": "Stop being so bossy."
   },
   {
+    "Spelling": "bothered",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('bothered') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel bothered when you say things like that."
+  },
+  {
+    "Spelling": "brutal",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'brutal' rather than making an objective observation.",
+    "Example": "That behavior is entirely brutal."
+  },
+  {
     "Spelling": "bullied",
     "Categories": [
       "IDF"
@@ -222,6 +254,14 @@
     ],
     "Explanation": "Diagnoses someone's level of attention or concern.",
     "Example": "That was a careless error."
+  },
+  {
+    "Spelling": "cheap",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'cheap' rather than making an objective observation.",
+    "Example": "That behavior is entirely cheap."
   },
   {
     "Spelling": "cheated",
@@ -272,12 +312,28 @@
     "Example": "I felt compelled to speak out."
   },
   {
+    "Spelling": "compensation",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('compensation') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the compensation they had coming to them."
+  },
+  {
     "Spelling": "conceited",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Judges someone as excessively proud.",
     "Example": "She is very conceited."
+  },
+  {
+    "Spelling": "consequence",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('consequence') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the consequence they had coming to them."
   },
   {
     "Spelling": "controlled",
@@ -294,6 +350,14 @@
     ],
     "Explanation": "Interprets others' actions as leaving no escape.",
     "Example": "I feel cornered by your questions."
+  },
+  {
+    "Spelling": "corrupt",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'corrupt' rather than making an objective observation.",
+    "Example": "That behavior is entirely corrupt."
   },
   {
     "Spelling": "coward",
@@ -320,12 +384,36 @@
     "Example": "He is a creepy guy."
   },
   {
+    "Spelling": "criminal",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'criminal' rather than making an objective observation.",
+    "Example": "That behavior is entirely criminal."
+  },
+  {
     "Spelling": "criticized",
     "Categories": [
       "IDF"
     ],
     "Explanation": "An interpretation of someone else's feedback.",
     "Example": "I feel constantly criticized."
+  },
+  {
+    "Spelling": "crooked",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'crooked' rather than making an objective observation.",
+    "Example": "That behavior is entirely crooked."
+  },
+  {
+    "Spelling": "crucial",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('crucial') that limits choice or insists on an outcome.",
+    "Example": "It is crucial that this gets done immediately."
   },
   {
     "Spelling": "cruel",
@@ -344,12 +432,36 @@
     "Example": "You are too cynical."
   },
   {
+    "Spelling": "defeated",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('defeated') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel defeated when you say things like that."
+  },
+  {
+    "Spelling": "defective",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'defective' rather than making an objective observation.",
+    "Example": "That behavior is entirely defective."
+  },
+  {
     "Spelling": "defensive",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Judges someone's reaction as overly protective rather than exploring their needs.",
     "Example": "Don't get defensive."
+  },
+  {
+    "Spelling": "deficient",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('deficient') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered deficient compared to the rest."
   },
   {
     "Spelling": "delusional",
@@ -376,12 +488,36 @@
     "Example": "My boss is very demanding."
   },
   {
+    "Spelling": "dependent",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'dependent' rather than making an objective observation.",
+    "Example": "That behavior is entirely dependent."
+  },
+  {
     "Spelling": "deserve",
     "Categories": [
       "DOL"
     ],
     "Explanation": "Implies that certain behaviors warrant reward or punishment.",
     "Example": "He deserves to be punished."
+  },
+  {
+    "Spelling": "destiny",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('destiny') used to deny personal responsibility or agency.",
+    "Example": "It was just destiny, there was nothing I could do."
+  },
+  {
+    "Spelling": "destructive",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'destructive' rather than making an objective observation.",
+    "Example": "That behavior is entirely destructive."
   },
   {
     "Spelling": "dictate",
@@ -416,6 +552,22 @@
     "Example": "His room is dirty."
   },
   {
+    "Spelling": "disappointed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('disappointed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel disappointed when you say things like that."
+  },
+  {
+    "Spelling": "discarded",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('discarded') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel discarded when you say things like that."
+  },
+  {
     "Spelling": "discounted",
     "Categories": [
       "IDF"
@@ -432,6 +584,14 @@
     "Example": "He is a dishonest person."
   },
   {
+    "Spelling": "dismissed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('dismissed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel dismissed when you say things like that."
+  },
+  {
     "Spelling": "disrespectful",
     "Categories": [
       "MJ"
@@ -440,12 +600,28 @@
     "Example": "That comment was disrespectful."
   },
   {
+    "Spelling": "disturbed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('disturbed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel disturbed when you say things like that."
+  },
+  {
     "Spelling": "dumb",
     "Categories": [
       "MJ"
     ],
     "Explanation": "An insult targeting intelligence.",
     "Example": "That is a dumb question."
+  },
+  {
+    "Spelling": "dumped",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('dumped') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel dumped when you say things like that."
   },
   {
     "Spelling": "duty",
@@ -472,12 +648,44 @@
     "Example": "He acts so entitled."
   },
   {
+    "Spelling": "entitlement",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('entitlement') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the entitlement they had coming to them."
+  },
+  {
+    "Spelling": "essential",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('essential') that limits choice or insists on an outcome.",
+    "Example": "It is essential that this gets done immediately."
+  },
+  {
     "Spelling": "evil",
     "Categories": [
       "MJ"
     ],
     "Explanation": "An extreme moral judgement of profound wickedness.",
     "Example": "She is pure evil."
+  },
+  {
+    "Spelling": "excellent",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('excellent') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered excellent compared to the rest."
+  },
+  {
+    "Spelling": "exceptional",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('exceptional') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered exceptional compared to the rest."
   },
   {
     "Spelling": "excluded",
@@ -494,6 +702,30 @@
     ],
     "Explanation": "Treating a desire as a given entitlement, which can feel demanding.",
     "Example": "I expect you to have dinner ready."
+  },
+  {
+    "Spelling": "exploited",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('exploited') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel exploited when you say things like that."
+  },
+  {
+    "Spelling": "extreme",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'extreme' rather than making an objective observation.",
+    "Example": "That behavior is entirely extreme."
+  },
+  {
+    "Spelling": "failing",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('failing') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered failing compared to the rest."
   },
   {
     "Spelling": "fair",
@@ -520,6 +752,22 @@
     "Example": "He is so fake."
   },
   {
+    "Spelling": "fatal",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'fatal' rather than making an objective observation.",
+    "Example": "That behavior is entirely fatal."
+  },
+  {
+    "Spelling": "fate",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('fate') used to deny personal responsibility or agency.",
+    "Example": "It was just fate, there was nothing I could do."
+  },
+  {
     "Spelling": "fault",
     "Categories": [
       "MJ"
@@ -528,12 +776,28 @@
     "Example": "It is your fault."
   },
   {
+    "Spelling": "fine",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('fine') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the fine they had coming to them."
+  },
+  {
     "Spelling": "flaky",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Labels someone as unreliable.",
     "Example": "She is too flaky to depend on."
+  },
+  {
+    "Spelling": "flawed",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'flawed' rather than making an objective observation.",
+    "Example": "That behavior is entirely flawed."
   },
   {
     "Spelling": "foolish",
@@ -560,6 +824,38 @@
     "Example": "I was forced to lie."
   },
   {
+    "Spelling": "forgotten",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('forgotten') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel forgotten when you say things like that."
+  },
+  {
+    "Spelling": "foul",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'foul' rather than making an objective observation.",
+    "Example": "That behavior is entirely foul."
+  },
+  {
+    "Spelling": "fragile",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'fragile' rather than making an objective observation.",
+    "Example": "That behavior is entirely fragile."
+  },
+  {
+    "Spelling": "fraud",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'fraud' rather than making an objective observation.",
+    "Example": "That behavior is entirely fraud."
+  },
+  {
     "Spelling": "good",
     "Categories": [
       "MJ"
@@ -568,12 +864,28 @@
     "Example": "He is a good boy."
   },
   {
+    "Spelling": "greatest",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('greatest') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered greatest compared to the rest."
+  },
+  {
     "Spelling": "greedy",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Judges someone's desire for resources as excessive.",
     "Example": "They are just greedy corporations."
+  },
+  {
+    "Spelling": "gross",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'gross' rather than making an objective observation.",
+    "Example": "That behavior is entirely gross."
   },
   {
     "Spelling": "guilty",
@@ -614,6 +926,30 @@
     ],
     "Explanation": "Obscures personal choice by suggesting one is forced to act.",
     "Example": "I have to go to work."
+  },
+  {
+    "Spelling": "highest",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('highest') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered highest compared to the rest."
+  },
+  {
+    "Spelling": "horrible",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'horrible' rather than making an objective observation.",
+    "Example": "That behavior is entirely horrible."
+  },
+  {
+    "Spelling": "hostile",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'hostile' rather than making an objective observation.",
+    "Example": "That behavior is entirely hostile."
   },
   {
     "Spelling": "hypocrite",
@@ -664,12 +1000,52 @@
     "Example": "He is too impatient."
   },
   {
+    "Spelling": "imperative",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('imperative') that limits choice or insists on an outcome.",
+    "Example": "It is imperative that this gets done immediately."
+  },
+  {
+    "Spelling": "imposed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('imposed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel imposed when you say things like that."
+  },
+  {
     "Spelling": "impossible",
     "Categories": [
       "DR"
     ],
     "Explanation": "Denies the possibility of choice or action entirely.",
     "Example": "It is impossible for me to go."
+  },
+  {
+    "Spelling": "improper",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'improper' rather than making an objective observation.",
+    "Example": "That behavior is entirely improper."
+  },
+  {
+    "Spelling": "inadequate",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'inadequate' rather than making an objective observation.",
+    "Example": "That behavior is entirely inadequate."
+  },
+  {
+    "Spelling": "inappropriate",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'inappropriate' rather than making an objective observation.",
+    "Example": "That behavior is entirely inappropriate."
   },
   {
     "Spelling": "incompetent",
@@ -688,12 +1064,36 @@
     "Example": "It was inconsiderate to play loud music."
   },
   {
+    "Spelling": "inconsistent",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'inconsistent' rather than making an objective observation.",
+    "Example": "That behavior is entirely inconsistent."
+  },
+  {
+    "Spelling": "inevitable",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('inevitable') used to deny personal responsibility or agency.",
+    "Example": "It was just inevitable, there was nothing I could do."
+  },
+  {
     "Spelling": "inferior",
     "Categories": [
       "COMP"
     ],
     "Explanation": "Directly compares someone's value or quality negatively to others.",
     "Example": "This product makes me feel inferior."
+  },
+  {
+    "Spelling": "insane",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'insane' rather than making an objective observation.",
+    "Example": "That behavior is entirely insane."
   },
   {
     "Spelling": "insensitive",
@@ -808,12 +1208,44 @@
     "Example": "We demand justice for this crime."
   },
   {
+    "Spelling": "karma",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('karma') used to deny personal responsibility or agency.",
+    "Example": "It was just karma, there was nothing I could do."
+  },
+  {
+    "Spelling": "lacking",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('lacking') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered lacking compared to the rest."
+  },
+  {
+    "Spelling": "lame",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'lame' rather than making an objective observation.",
+    "Example": "That behavior is entirely lame."
+  },
+  {
     "Spelling": "lazy",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Implies a moral failing or lack of character, rather than describing the specific behavior.",
     "Example": "He is too lazy to clean his room."
+  },
+  {
+    "Spelling": "left",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('left') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel left when you say things like that."
   },
   {
     "Spelling": "lesser",
@@ -832,6 +1264,14 @@
     "Example": "I felt let down when you didn't show up."
   },
   {
+    "Spelling": "lethal",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'lethal' rather than making an objective observation.",
+    "Example": "That behavior is entirely lethal."
+  },
+  {
     "Spelling": "liar",
     "Categories": [
       "MJ"
@@ -848,6 +1288,14 @@
     "Example": "He is a total loser."
   },
   {
+    "Spelling": "losing",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('losing') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered losing compared to the rest."
+  },
+  {
     "Spelling": "loud",
     "Categories": [
       "MJ"
@@ -856,12 +1304,44 @@
     "Example": "She is too loud."
   },
   {
+    "Spelling": "lowest",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('lowest') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered lowest compared to the rest."
+  },
+  {
+    "Spelling": "luck",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('luck') used to deny personal responsibility or agency.",
+    "Example": "It was just luck, there was nothing I could do."
+  },
+  {
     "Spelling": "make me",
     "Categories": [
       "DR"
     ],
     "Explanation": "Denies responsibility for one's own feelings and actions, attributing them to external factors.",
     "Example": "You make me so angry."
+  },
+  {
+    "Spelling": "malicious",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'malicious' rather than making an objective observation.",
+    "Example": "That behavior is entirely malicious."
+  },
+  {
+    "Spelling": "mandatory",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('mandatory') that limits choice or insists on an outcome.",
+    "Example": "It is mandatory that this gets done immediately."
   },
   {
     "Spelling": "manipulated",
@@ -894,6 +1374,22 @@
     ],
     "Explanation": "A judgement about organization or cleanliness.",
     "Example": "Your desk is messy."
+  },
+  {
+    "Spelling": "minor",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('minor') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered minor compared to the rest."
+  },
+  {
+    "Spelling": "miserable",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'miserable' rather than making an objective observation.",
+    "Example": "That behavior is entirely miserable."
   },
   {
     "Spelling": "misunderstood",
@@ -934,6 +1430,14 @@
     ],
     "Explanation": "A judgement of high unpleasantness or spite.",
     "Example": "That was a nasty thing to say."
+  },
+  {
+    "Spelling": "necessity",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('necessity') that limits choice or insists on an outcome.",
+    "Example": "It is necessity that this gets done immediately."
   },
   {
     "Spelling": "need",
@@ -984,12 +1488,36 @@
     "Example": "Why can't you just be normal?"
   },
   {
+    "Spelling": "notorious",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'notorious' rather than making an objective observation.",
+    "Example": "That behavior is entirely notorious."
+  },
+  {
+    "Spelling": "nuisance",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'nuisance' rather than making an objective observation.",
+    "Example": "That behavior is entirely nuisance."
+  },
+  {
     "Spelling": "obey",
     "Categories": [
       "DR"
     ],
     "Explanation": "Denies responsibility by attributing action to following orders.",
     "Example": "I was just obeying commands."
+  },
+  {
+    "Spelling": "obligated",
+    "Categories": [
+      "DR"
+    ],
+    "Explanation": "A concept ('obligated') used to deny personal responsibility or agency.",
+    "Example": "It was just obligated, there was nothing I could do."
   },
   {
     "Spelling": "obnoxious",
@@ -1006,6 +1534,22 @@
     ],
     "Explanation": "Judges someone's focus as unhealthy or excessive.",
     "Example": "She is obsessive about her weight."
+  },
+  {
+    "Spelling": "offended",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('offended') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel offended when you say things like that."
+  },
+  {
+    "Spelling": "offensive",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'offensive' rather than making an objective observation.",
+    "Example": "That behavior is entirely offensive."
   },
   {
     "Spelling": "orders",
@@ -1042,12 +1586,44 @@
     "Example": "You ought to visit your mother more often."
   },
   {
+    "Spelling": "outrageous",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'outrageous' rather than making an objective observation.",
+    "Example": "That behavior is entirely outrageous."
+  },
+  {
+    "Spelling": "outstanding",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('outstanding') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered outstanding compared to the rest."
+  },
+  {
+    "Spelling": "overlooked",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('overlooked') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel overlooked when you say things like that."
+  },
+  {
     "Spelling": "overpowered",
     "Categories": [
       "IDF"
     ],
     "Explanation": "Diagnoses another's actions as dominating.",
     "Example": "I feel overpowered in discussions."
+  },
+  {
+    "Spelling": "overwhelmed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('overwhelmed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel overwhelmed when you say things like that."
   },
   {
     "Spelling": "owed",
@@ -1098,6 +1674,14 @@
     "Example": "She always tries to be perfect."
   },
   {
+    "Spelling": "pest",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'pest' rather than making an objective observation.",
+    "Example": "That behavior is entirely pest."
+  },
+  {
     "Spelling": "petty",
     "Categories": [
       "MJ"
@@ -1122,6 +1706,14 @@
     "Example": "It's company policy."
   },
   {
+    "Spelling": "poor",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'poor' rather than making an objective observation.",
+    "Example": "That behavior is entirely poor."
+  },
+  {
     "Spelling": "powerless",
     "Categories": [
       "DR"
@@ -1136,6 +1728,14 @@
     ],
     "Explanation": "Interprets someone else's actions as applying force.",
     "Example": "I feel pressured to agree."
+  },
+  {
+    "Spelling": "prize",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('prize') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the prize they had coming to them."
   },
   {
     "Spelling": "provoked",
@@ -1162,6 +1762,14 @@
     "Example": "I feel punished for speaking my mind."
   },
   {
+    "Spelling": "pushed",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('pushed') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel pushed when you say things like that."
+  },
+  {
     "Spelling": "pushy",
     "Categories": [
       "MJ"
@@ -1178,6 +1786,22 @@
     "Example": "I felt rejected."
   },
   {
+    "Spelling": "repayment",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('repayment') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the repayment they had coming to them."
+  },
+  {
+    "Spelling": "replaced",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('replaced') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel replaced when you say things like that."
+  },
+  {
     "Spelling": "require",
     "Categories": [
       "MD"
@@ -1192,6 +1816,14 @@
     ],
     "Explanation": "Implies an external mandate removes choice.",
     "Example": "Attendance is required."
+  },
+  {
+    "Spelling": "revenge",
+    "Categories": [
+      "DOL"
+    ],
+    "Explanation": "Deserve-oriented language ('revenge') implying a system of reward, punishment, or conditional worth.",
+    "Example": "They received the revenge they had coming to them."
   },
   {
     "Spelling": "reward",
@@ -1242,6 +1874,14 @@
     "Example": "It was rude of him to leave early."
   },
   {
+    "Spelling": "ruined",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('ruined') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel ruined when you say things like that."
+  },
+  {
     "Spelling": "sabotaged",
     "Categories": [
       "IDF"
@@ -1282,6 +1922,22 @@
     ],
     "Explanation": "A negative demand implying that doing an action is wrong.",
     "Example": "You shouldn't speak to me that way."
+  },
+  {
+    "Spelling": "sick",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'sick' rather than making an objective observation.",
+    "Example": "That behavior is entirely sick."
+  },
+  {
+    "Spelling": "sinister",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'sinister' rather than making an objective observation.",
+    "Example": "That behavior is entirely sinister."
   },
   {
     "Spelling": "sloppy",
@@ -1340,6 +1996,22 @@
     "Example": "He acts like a spoiled child."
   },
   {
+    "Spelling": "stepped",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('stepped') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel stepped when you say things like that."
+  },
+  {
+    "Spelling": "strict",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'strict' rather than making an objective observation.",
+    "Example": "That behavior is entirely strict."
+  },
+  {
     "Spelling": "stubborn",
     "Categories": [
       "MJ"
@@ -1388,6 +2060,22 @@
     "Example": "I am supposed to be there at eight."
   },
   {
+    "Spelling": "supreme",
+    "Categories": [
+      "COMP"
+    ],
+    "Explanation": "A comparison ('supreme') that establishes a hierarchy or sets a standard against others.",
+    "Example": "They are considered supreme compared to the rest."
+  },
+  {
+    "Spelling": "suspect",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'suspect' rather than making an objective observation.",
+    "Example": "That behavior is entirely suspect."
+  },
+  {
     "Spelling": "tacky",
     "Categories": [
       "MJ"
@@ -1402,6 +2090,14 @@
     ],
     "Explanation": "A judgement about someone else's lack of appreciation.",
     "Example": "I feel taken for granted here."
+  },
+  {
+    "Spelling": "targeted",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('targeted') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel targeted when you say things like that."
   },
   {
     "Spelling": "terrible",
@@ -1426,6 +2122,14 @@
     ],
     "Explanation": "Diagnoses someone's intent to cause harm.",
     "Example": "I feel threatened by his presence."
+  },
+  {
+    "Spelling": "tolerated",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('tolerated') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel tolerated when you say things like that."
   },
   {
     "Spelling": "toxic",
@@ -1500,6 +2204,14 @@
     "Example": "I feel unappreciated."
   },
   {
+    "Spelling": "unbelievable",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'unbelievable' rather than making an objective observation.",
+    "Example": "That behavior is entirely unbelievable."
+  },
+  {
     "Spelling": "unearned",
     "Categories": [
       "DOL"
@@ -1522,6 +2234,14 @@
     ],
     "Explanation": "Diagnoses the other person as not listening.",
     "Example": "I feel unheard."
+  },
+  {
+    "Spelling": "unpleasant",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'unpleasant' rather than making an objective observation.",
+    "Example": "That behavior is entirely unpleasant."
   },
   {
     "Spelling": "unprofessional",
@@ -1572,6 +2292,22 @@
     "Example": "His methods are highly unusual."
   },
   {
+    "Spelling": "unwanted",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('unwanted') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel unwanted when you say things like that."
+  },
+  {
+    "Spelling": "urgent",
+    "Categories": [
+      "MD"
+    ],
+    "Explanation": "A demanding expression ('urgent') that limits choice or insists on an outcome.",
+    "Example": "It is urgent that this gets done immediately."
+  },
+  {
     "Spelling": "used",
     "Categories": [
       "IDF"
@@ -1580,12 +2316,28 @@
     "Example": "I feel used."
   },
   {
+    "Spelling": "useless",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'useless' rather than making an objective observation.",
+    "Example": "That behavior is entirely useless."
+  },
+  {
     "Spelling": "vain",
     "Categories": [
       "MJ"
     ],
     "Explanation": "Judges excessive pride in one's appearance or achievements.",
     "Example": "She is too vain to wear glasses."
+  },
+  {
+    "Spelling": "vicious",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'vicious' rather than making an objective observation.",
+    "Example": "That behavior is entirely vicious."
   },
   {
     "Spelling": "victimized",
@@ -1604,6 +2356,14 @@
     "Example": "I felt violated by the intrusion."
   },
   {
+    "Spelling": "waste",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'waste' rather than making an objective observation.",
+    "Example": "That behavior is entirely waste."
+  },
+  {
     "Spelling": "weak",
     "Categories": [
       "MJ"
@@ -1618,6 +2378,22 @@
     ],
     "Explanation": "Judges something as strange or abnormal.",
     "Example": "That is a weird hobby."
+  },
+  {
+    "Spelling": "welcome",
+    "Categories": [
+      "IDF"
+    ],
+    "Explanation": "An interpretation ('welcome') disguised as a feeling, describing how one perceives they are being treated.",
+    "Example": "I feel welcome when you say things like that."
+  },
+  {
+    "Spelling": "wicked",
+    "Categories": [
+      "MJ"
+    ],
+    "Explanation": "A moralistic judgement diagnosing something as 'wicked' rather than making an objective observation.",
+    "Example": "That behavior is entirely wicked."
   },
   {
     "Spelling": "worse",
