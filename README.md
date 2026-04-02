@@ -7,21 +7,12 @@ This repository maintains a curated list of vocabularies and expressions that ar
 Judgements are often seen as "tragic expressions" of unmet needs. 
 By identifying and categorizing binary, moralistic, or non-empathetic language, this project aims to increase awareness of habitual judgmental thinking.
 
-## Content
-
-The collection includes words and phrases that often imply:
-- Moralistic judgements.
-- Comparisons.
-- Denial of responsibility.
-- Making demands.
-- Deserve-oriented language.
-- Interpretations disguised as feelings.
-
 ## Structure
 
 Language files current available in TOON and JSON format: each file contains a list of vocabularies and expressions following the following schema:
 
 ### Spelling
+Sorted Alphabetically
 
 ### Categories
 
