@@ -1,16 +1,36 @@
-[62]:
+[205]:
   - Spelling: abandoned
     Categories[1]: IDF
     Explanation: Interprets another's physical or emotional absence as a deliberate act against oneself.
-    Example: I feel abandoned when you leave without saying goodbye.
+    Example: I feel abandoned.
   - Spelling: abnormal
     Categories[1]: COMP
     Explanation: Judges someone by comparing them unfavorably to a standard.
     Example: His reaction was completely abnormal.
+  - Spelling: abrasive
+    Categories[1]: MJ
+    Explanation: Judges someone's manner as overly harsh.
+    Example: He has an abrasive personality.
+  - Spelling: absurd
+    Categories[1]: MJ
+    Explanation: Dismisses something as wildly unreasonable.
+    Example: That is an absurd idea.
+  - Spelling: abused
+    Categories[1]: IDF
+    Explanation: "An interpretation of how someone else is treating you, rather than an internal feeling."
+    Example: I feel abused by the system.
+  - Spelling: aggressive
+    Categories[1]: MJ
+    Explanation: Labels someone as prone to attack rather than describing their actions.
+    Example: You are being too aggressive.
+  - Spelling: annoying
+    Categories[1]: MJ
+    Explanation: Diagnoses the other person instead of owning one's own irritation.
+    Example: She is so annoying.
   - Spelling: arrogant
     Categories[1]: MJ
     Explanation: A critical label describing someone as having an exaggerated sense of their own importance.
-    Example: She is too arrogant to ask for help.
+    Example: He is too arrogant to ask for help.
   - Spelling: attacked
     Categories[1]: IDF
     Explanation: An interpretation of another's action as an assault.
@@ -19,10 +39,22 @@
     Categories[1]: COMP
     Explanation: A comparative label that minimizes individual uniqueness.
     Example: He is just an average student.
+  - Spelling: awful
+    Categories[1]: MJ
+    Explanation: A general moralistic label implying extreme negativity.
+    Example: That was an awful thing to do.
   - Spelling: bad
     Categories[1]: MJ
     Explanation: A general moralistic label implying negative value.
     Example: He is a bad person.
+  - Spelling: belittled
+    Categories[1]: IDF
+    Explanation: Diagnoses the other person's intent to diminish your worth.
+    Example: I feel belittled when you do that.
+  - Spelling: best
+    Categories[1]: COMP
+    Explanation: "The ultimate positive comparison, setting a hierarchy."
+    Example: She is the best employee.
   - Spelling: betrayed
     Categories[1]: IDF
     Explanation: Diagnoses another person's actions as breaking trust.
@@ -35,98 +67,410 @@
     Categories[1]: MD
     Explanation: An implied threat if a demand is not met.
     Example: "You better clean your room, or else."
+  - Spelling: bias
+    Categories[1]: MJ
+    Explanation: Diagnoses a lack of objectivity.
+    Example: You have a bias against him.
+  - Spelling: bitchy
+    Categories[1]: MJ
+    Explanation: "A gendered, insulting label diagnosing someone as malicious or unpleasant."
+    Example: She is acting bitchy.
+  - Spelling: bitter
+    Categories[1]: MJ
+    Explanation: Judges someone's emotional state as resentful.
+    Example: He is just bitter about the past.
+  - Spelling: blame
+    Categories[1]: MJ
+    Explanation: Assigning fault instead of taking responsibility or seeking understanding.
+    Example: I blame you for this mess.
+  - Spelling: blamed
+    Categories[1]: IDF
+    Explanation: An interpretation that someone else is holding you responsible.
+    Example: I always feel blamed for everything.
+  - Spelling: boring
+    Categories[1]: MJ
+    Explanation: Judges the subject rather than expressing one's own lack of interest.
+    Example: This lecture is boring.
+  - Spelling: bossy
+    Categories[1]: MJ
+    Explanation: "Labels someone who is taking charge, often used dismissively."
+    Example: Stop being so bossy.
+  - Spelling: bullied
+    Categories[1]: IDF
+    Explanation: Diagnoses another's behavior as intentionally intimidating.
+    Example: I feel bullied by my coworkers.
   - Spelling: can't help it
     Categories[1]: DR
     Explanation: Claims a lack of control over one's own actions.
     Example: I yell because I can't help it.
+  - Spelling: cannot
+    Categories[1]: DR
+    Explanation: Often used to deny willingness rather than actual ability.
+    Example: I cannot deal with this right now.
   - Spelling: careless
     Categories[1]: MJ
     Explanation: Diagnoses someone's level of attention or concern.
     Example: That was a careless error.
+  - Spelling: cheated
+    Categories[1]: IDF
+    Explanation: Interprets someone else's action as deceitful deprivation.
+    Example: I feel cheated out of my prize.
+  - Spelling: childish
+    Categories[1]: MJ
+    Explanation: Dismisses behavior by comparing it to an immature child.
+    Example: Your reaction is childish.
+  - Spelling: clumsy
+    Categories[1]: MJ
+    Explanation: A critical label regarding physical coordination.
+    Example: He is so clumsy.
+  - Spelling: coerced
+    Categories[1]: IDF
+    Explanation: Diagnoses someone else's actions as applying undue pressure.
+    Example: I feel coerced into signing this.
+  - Spelling: command
+    Categories[1]: MD
+    Explanation: An authoritative demand expecting obedience.
+    Example: I command you to stop.
+  - Spelling: compelled
+    Categories[1]: DR
+    Explanation: Implies an irresistible force dictating action.
+    Example: I felt compelled to speak out.
+  - Spelling: conceited
+    Categories[1]: MJ
+    Explanation: Judges someone as excessively proud.
+    Example: She is very conceited.
   - Spelling: controlled
     Categories[1]: IDF
     Explanation: A diagnosis of another's intent to dominate.
     Example: I feel controlled by my boss.
+  - Spelling: cornered
+    Categories[1]: IDF
+    Explanation: Interprets others' actions as leaving no escape.
+    Example: I feel cornered by your questions.
+  - Spelling: coward
+    Categories[1]: MJ
+    Explanation: A label diagnosing a lack of courage.
+    Example: You are a coward for not speaking up.
+  - Spelling: crazy
+    Categories[1]: MJ
+    Explanation: Dismisses someone's thoughts or feelings as irrational.
+    Example: Are you crazy?
+  - Spelling: creepy
+    Categories[1]: MJ
+    Explanation: Diagnoses someone as causing fear or unease.
+    Example: He is a creepy guy.
+  - Spelling: criticized
+    Categories[1]: IDF
+    Explanation: An interpretation of someone else's feedback.
+    Example: I feel constantly criticized.
+  - Spelling: cruel
+    Categories[1]: MJ
+    Explanation: Labels behavior as willfully causing pain.
+    Example: That was a cruel joke.
+  - Spelling: cynical
+    Categories[1]: MJ
+    Explanation: Diagnoses a pessimistic or distrustful worldview.
+    Example: You are too cynical.
+  - Spelling: defensive
+    Categories[1]: MJ
+    Explanation: Judges someone's reaction as overly protective rather than exploring their needs.
+    Example: Don't get defensive.
+  - Spelling: delusional
+    Categories[1]: MJ
+    Explanation: Dismisses someone's perspective as completely out of touch with reality.
+    Example: He is delusional if he believes that.
   - Spelling: demand
     Categories[1]: MD
     Explanation: Explicitly stating a requirement without room for the other's needs.
     Example: I demand an apology.
+  - Spelling: demanding
+    Categories[1]: MJ
+    Explanation: Labels someone as asking for too much.
+    Example: My boss is very demanding.
   - Spelling: deserve
     Categories[1]: DOL
-    Explanation: "Implies that certain behaviors warrant reward or punishment, rooted in moralistic thinking."
-    Example: He deserves to be punished for what he did.
+    Explanation: Implies that certain behaviors warrant reward or punishment.
+    Example: He deserves to be punished.
+  - Spelling: dictate
+    Categories[1]: MD
+    Explanation: To lay down rules or orders authoritatively.
+    Example: Don't try to dictate my life.
+  - Spelling: difficult
+    Categories[1]: MJ
+    Explanation: A vague label suggesting someone is hard to deal with.
+    Example: She is a difficult customer.
+  - Spelling: diminished
+    Categories[1]: IDF
+    Explanation: Diagnoses the effect of someone else's words on one's stature.
+    Example: I feel diminished in his presence.
+  - Spelling: dirty
+    Categories[1]: MJ
+    Explanation: Judges cleanliness in a moralistic way.
+    Example: His room is dirty.
+  - Spelling: discounted
+    Categories[1]: IDF
+    Explanation: An interpretation that one's input is being ignored.
+    Example: I feel my ideas are discounted.
+  - Spelling: dishonest
+    Categories[1]: MJ
+    Explanation: Labels a lack of truthfulness as a character flaw.
+    Example: He is a dishonest person.
+  - Spelling: disrespectful
+    Categories[1]: MJ
+    Explanation: Judges actions as lacking esteem or courtesy.
+    Example: That comment was disrespectful.
+  - Spelling: dumb
+    Categories[1]: MJ
+    Explanation: An insult targeting intelligence.
+    Example: That is a dumb question.
+  - Spelling: duty
+    Categories[1]: DR
+    Explanation: Uses external obligation to deny personal choice.
+    Example: It is my duty to report this.
   - Spelling: earn
     Categories[1]: DOL
     Explanation: Suggests that positive treatment or basic needs must be conditionally acquired.
     Example: You have to earn my respect.
+  - Spelling: entitled
+    Categories[1]: DOL
+    Explanation: Believing oneself to inherently deserve privileges or special treatment.
+    Example: He acts so entitled.
+  - Spelling: evil
+    Categories[1]: MJ
+    Explanation: An extreme moral judgement of profound wickedness.
+    Example: She is pure evil.
+  - Spelling: excluded
+    Categories[1]: IDF
+    Explanation: Interprets the actions of a group as intentionally leaving one out.
+    Example: I felt excluded from the conversation.
   - Spelling: expect
     Categories[1]: MD
     Explanation: "Treating a desire as a given entitlement, which can feel demanding."
     Example: I expect you to have dinner ready.
+  - Spelling: fair
+    Categories[1]: DOL
+    Explanation: Often used to demand what one feels they deserve based on arbitrary standards.
+    Example: That is not fair to me.
   - Spelling: fair share
     Categories[1]: DOL
     Explanation: "An arbitrary measure of what is deserved, often used to judge distribution."
     Example: I didn't get my fair share.
+  - Spelling: fake
+    Categories[1]: MJ
+    Explanation: Diagnoses someone as inauthentic.
+    Example: He is so fake.
+  - Spelling: fault
+    Categories[1]: MJ
+    Explanation: Assigning blame rather than analyzing a situation.
+    Example: It is your fault.
+  - Spelling: flaky
+    Categories[1]: MJ
+    Explanation: Labels someone as unreliable.
+    Example: She is too flaky to depend on.
+  - Spelling: foolish
+    Categories[1]: MJ
+    Explanation: Judges an action as lacking sense or judgement.
+    Example: It was foolish to trust him.
+  - Spelling: forced
+    Categories[1]: DR
+    Explanation: Explicitly denies agency in a situation.
+    Example: I was forced to lie.
   - Spelling: forced to
     Categories[1]: DR
     Explanation: Explicitly denies agency in a situation.
     Example: I was forced to lie.
+  - Spelling: good
+    Categories[1]: MJ
+    Explanation: A positive moral judgement that still evaluates rather than observes.
+    Example: He is a good boy.
+  - Spelling: greedy
+    Categories[1]: MJ
+    Explanation: Judges someone's desire for resources as excessive.
+    Example: They are just greedy corporations.
+  - Spelling: guilty
+    Categories[1]: MJ
+    Explanation: A moralistic or legal judgement of culpability.
+    Example: He is guilty of lying.
+  - Spelling: harassed
+    Categories[1]: IDF
+    Explanation: Diagnoses another's behavior as aggressive pressure or intimidation.
+    Example: I feel harassed by these calls.
+  - Spelling: harsh
+    Categories[1]: MJ
+    Explanation: Judges a tone or action as unpleasantly rough.
+    Example: That was a harsh criticism.
+  - Spelling: hateful
+    Categories[1]: MJ
+    Explanation: Diagnoses intent as stemming from intense dislike.
+    Example: She made hateful remarks.
   - Spelling: have to
     Categories[1]: DR
     Explanation: Obscures personal choice by suggesting one is forced to act.
     Example: I have to go to work.
+  - Spelling: hypocrite
+    Categories[1]: MJ
+    Explanation: Labels someone whose actions contradict their stated beliefs.
+    Example: You are a hypocrite.
+  - Spelling: idiot
+    Categories[1]: MJ
+    Explanation: A strong insult targeting intelligence.
+    Example: Don't be an idiot.
+  - Spelling: ignorant
+    Categories[1]: MJ
+    Explanation: Judges a lack of knowledge or awareness.
+    Example: He is ignorant of the facts.
   - Spelling: ignored
     Categories[1]: IDF
-    Explanation: "An interpretation of what someone else is doing, not an actual internal emotion (like feeling lonely or hurt)."
+    Explanation: "An interpretation of what someone else is doing, not an actual internal emotion."
     Example: I feel ignored by you.
+  - Spelling: immature
+    Categories[1]: MJ
+    Explanation: Diagnoses behavior as not fully developed.
+    Example: Her response was immature.
+  - Spelling: impatient
+    Categories[1]: MJ
+    Explanation: Judges an inability to wait calmly.
+    Example: He is too impatient.
+  - Spelling: impossible
+    Categories[1]: DR
+    Explanation: Denies the possibility of choice or action entirely.
+    Example: It is impossible for me to go.
+  - Spelling: incompetent
+    Categories[1]: MJ
+    Explanation: A sweeping judgement of someone's ability or skill.
+    Example: The whole staff is incompetent.
+  - Spelling: inconsiderate
+    Categories[1]: MJ
+    Explanation: Judges a lack of thought for others.
+    Example: It was inconsiderate to play loud music.
   - Spelling: inferior
     Categories[1]: COMP
     Explanation: Directly compares someone's value or quality negatively to others.
     Example: This product makes me feel inferior.
+  - Spelling: insensitive
+    Categories[1]: MJ
+    Explanation: Diagnoses a lack of feeling or tact.
+    Example: That was an insensitive joke.
+  - Spelling: insist
+    Categories[1]: MD
+    Explanation: A firm demand allowing no refusal.
+    Example: I insist that you stay.
+  - Spelling: insulted
+    Categories[1]: IDF
+    Explanation: Diagnoses someone else's words as an offensive attack.
+    Example: I feel insulted by that offer.
+  - Spelling: interrupted
+    Categories[1]: IDF
+    Explanation: "A description of what someone did, disguised as a feeling."
+    Example: I feel interrupted.
   - Spelling: intimidated
     Categories[1]: IDF
     Explanation: A diagnosis of another's behavior as threatening.
     Example: I feel intimidated by his tone.
+  - Spelling: invalidated
+    Categories[1]: IDF
+    Explanation: Interprets someone else's response as denying one's reality.
+    Example: I feel invalidated when I express myself.
   - Spelling: invisible
     Categories[1]: IDF
     Explanation: An interpretation of how others perceive oneself.
     Example: I feel invisible at these parties.
+  - Spelling: irrational
+    Categories[1]: MJ
+    Explanation: Dismisses logic or reason in someone's thought process.
+    Example: Your fear is completely irrational.
   - Spelling: irresponsible
     Categories[1]: MJ
     Explanation: Criticizes a lack of care or duty rather than observing the specific unfulfilled task.
     Example: He is an irresponsible employee.
+  - Spelling: isolated
+    Categories[1]: IDF
+    Explanation: Interprets the environment or others as keeping one apart.
+    Example: I feel isolated in this department.
   - Spelling: it's your fault
     Categories[1]: DR
     Explanation: Shifts blame for a situation entirely to someone else.
     Example: It's your fault we are late.
+  - Spelling: jealous
+    Categories[1]: MJ
+    Explanation: Diagnoses someone's feeling as envious or protective.
+    Example: You are just jealous.
+  - Spelling: judged
+    Categories[1]: IDF
+    Explanation: An interpretation that someone else is evaluating you negatively.
+    Example: I feel judged by my family.
+  - Spelling: justice
+    Categories[1]: DOL
+    Explanation: Often used to seek punishment or retribution based on what is 'deserved'.
+    Example: We demand justice for this crime.
   - Spelling: lazy
     Categories[1]: MJ
     Explanation: "Implies a moral failing or lack of character, rather than describing the specific behavior."
     Example: He is too lazy to clean his room.
+  - Spelling: lesser
+    Categories[1]: COMP
+    Explanation: Comparing downward in worth or importance.
+    Example: He treated them as lesser beings.
   - Spelling: let down
     Categories[1]: IDF
     Explanation: A judgement that someone failed to meet expectations.
     Example: I felt let down when you didn't show up.
+  - Spelling: liar
+    Categories[1]: MJ
+    Explanation: A label defining a person by their untruthfulness.
+    Example: You are a liar.
+  - Spelling: loser
+    Categories[1]: MJ
+    Explanation: "A harsh, sweeping judgement of someone's overall worth or success."
+    Example: He is a total loser.
+  - Spelling: loud
+    Categories[1]: MJ
+    Explanation: "When used judgementally, it criticizes volume rather than stating a preference for quiet."
+    Example: She is too loud.
   - Spelling: make me
     Categories[1]: DR
     Explanation: "Denies responsibility for one's own feelings and actions, attributing them to external factors."
     Example: You make me so angry.
   - Spelling: manipulated
     Categories[1]: IDF
-    Explanation: Describes a perception of someone else's intent rather than one's own feelings.
-    Example: I feel manipulated when you say that.
+    Explanation: Describes a perception of someone else's intent.
+    Example: I feel manipulated.
   - Spelling: mean
     Categories[1]: MJ
     Explanation: A label that diagnoses ill intent.
-    Example: Don't be so mean to your brother.
+    Example: Don't be so mean.
+  - Spelling: merit
+    Categories[1]: DOL
+    Explanation: Basing worth or reward on demonstrated action or quality.
+    Example: Promotions should be based on merit.
+  - Spelling: messy
+    Categories[1]: MJ
+    Explanation: A judgement about organization or cleanliness.
+    Example: Your desk is messy.
   - Spelling: misunderstood
     Categories[1]: IDF
     Explanation: A diagnosis of the other person's level of comprehension.
-    Example: I feel misunderstood by everyone.
+    Example: I feel misunderstood.
   - Spelling: must
     Categories[1]: DR
     Explanation: "Implies an external compulsion, denying choice."
     Example: I must finish this tonight.
+  - Spelling: naive
+    Categories[1]: MJ
+    Explanation: Judges a lack of experience or wisdom.
+    Example: You are too naive to understand.
+  - Spelling: narcissist
+    Categories[1]: MJ
+    Explanation: A clinical term often misused as a judgemental label for selfishness.
+    Example: My ex was a narcissist.
+  - Spelling: nasty
+    Categories[1]: MJ
+    Explanation: A judgement of high unpleasantness or spite.
+    Example: That was a nasty thing to say.
+  - Spelling: need
+    Categories[1]: MD
+    Explanation: When used to demand specific actions from others rather than expressing a personal requirement.
+    Example: I need you to fix this immediately.
   - Spelling: needy
     Categories[1]: MJ
     Explanation: A negative judgement about someone expressing a desire for connection or support.
@@ -134,7 +478,11 @@
   - Spelling: neglected
     Categories[1]: IDF
     Explanation: Interprets someone else's lack of action as a deliberate failing.
-    Example: I feel neglected when you work late.
+    Example: I feel neglected.
+  - Spelling: neurotic
+    Categories[1]: MJ
+    Explanation: A pseudo-psychological label used to judge anxiety or control issues.
+    Example: Stop being so neurotic about the schedule.
   - Spelling: no choice
     Categories[1]: DR
     Explanation: Denies the existence of alternative actions.
@@ -143,58 +491,198 @@
     Categories[1]: COMP
     Explanation: Compares an individual to an arbitrary standard of acceptability.
     Example: Why can't you just be normal?
+  - Spelling: obey
+    Categories[1]: DR
+    Explanation: Denies responsibility by attributing action to following orders.
+    Example: I was just obeying commands.
+  - Spelling: obnoxious
+    Categories[1]: MJ
+    Explanation: A strong judgement of unpleasantness or offensiveness.
+    Example: His behavior was obnoxious.
+  - Spelling: obsessive
+    Categories[1]: MJ
+    Explanation: Judges someone's focus as unhealthy or excessive.
+    Example: She is obsessive about her weight.
+  - Spelling: orders
+    Categories[1]: DR
+    Explanation: Shifting responsibility to an authority figure.
+    Example: I'm just following orders.
+  - Spelling: ordinary
+    Categories[1]: COMP
+    Explanation: "Compares someone to the average, often implying lack of specialness."
+    Example: It was just an ordinary performance.
+  - Spelling: ought
+    Categories[2]: MD,MJ
+    Explanation: Implies a moral obligation or demand.
+    Example: You ought to visit your mother.
   - Spelling: ought to
     Categories[2]: MD,MJ
     Explanation: "Similar to 'should', implies a moral obligation or demand."
     Example: You ought to visit your mother more often.
+  - Spelling: overpowered
+    Categories[1]: IDF
+    Explanation: Diagnoses another's actions as dominating.
+    Example: I feel overpowered in discussions.
+  - Spelling: owed
+    Categories[1]: DOL
+    Explanation: A belief that something is due as a right.
+    Example: I am owed an explanation.
+  - Spelling: paranoid
+    Categories[1]: MJ
+    Explanation: "Diagnoses extreme, irrational fear or distrust."
+    Example: You are being paranoid.
+  - Spelling: pathetic
+    Categories[1]: MJ
+    Explanation: A harsh judgement implying someone is pitiful or inadequate.
+    Example: That excuse is pathetic.
+  - Spelling: patronized
+    Categories[1]: IDF
+    Explanation: Interprets someone's tone as condescending.
+    Example: I feel patronized when you explain things like that.
+  - Spelling: penalty
+    Categories[1]: DOL
+    Explanation: A punishment inflicted for breaking a rule.
+    Example: There is a penalty for late payment.
+  - Spelling: perfect
+    Categories[1]: MJ
+    Explanation: A judgement of flawlessness that sets an impossible standard.
+    Example: She always tries to be perfect.
+  - Spelling: petty
+    Categories[1]: MJ
+    Explanation: Judges actions or concerns as trivial and mean-spirited.
+    Example: They are arguing over petty things.
+  - Spelling: phony
+    Categories[1]: MJ
+    Explanation: A label diagnosing someone as fraudulent or not genuine.
+    Example: He is a phony.
+  - Spelling: policy
+    Categories[1]: DR
+    Explanation: Using organizational rules to deny personal agency.
+    Example: It's company policy.
+  - Spelling: powerless
+    Categories[1]: DR
+    Explanation: A total denial of personal agency.
+    Example: I am powerless in this situation.
   - Spelling: pressured
     Categories[1]: IDF
     Explanation: Interprets someone else's actions as applying force.
     Example: I feel pressured to agree.
+  - Spelling: provoked
+    Categories[1]: IDF
+    Explanation: Diagnoses someone else's action as an intentional trigger.
+    Example: I feel provoked.
   - Spelling: punish
     Categories[1]: DOL
     Explanation: The concept that someone should suffer for an action.
     Example: She needs to be punished for lying.
+  - Spelling: punished
+    Categories[1]: IDF
+    Explanation: Interprets an action as a deliberate penalty.
+    Example: I feel punished for speaking my mind.
+  - Spelling: pushy
+    Categories[1]: MJ
+    Explanation: Judges someone as overly assertive or demanding.
+    Example: Salesmen can be very pushy.
   - Spelling: rejected
     Categories[1]: IDF
     Explanation: Interprets an action as pushing oneself away.
-    Example: I felt rejected when she said no.
+    Example: I felt rejected.
   - Spelling: require
     Categories[1]: MD
-    Explanation: "Stating something as mandatory, often backed by a threat of consequence."
-    Example: We require your attendance at the meeting.
+    Explanation: Stating something as mandatory.
+    Example: We require your attendance.
+  - Spelling: required
+    Categories[1]: DR
+    Explanation: Implies an external mandate removes choice.
+    Example: Attendance is required.
   - Spelling: reward
     Categories[1]: DOL
     Explanation: "The counterpart to punishment, implying conditional positive regard."
     Example: You will get a reward if you behave.
+  - Spelling: ridiculous
+    Categories[1]: MJ
+    Explanation: Dismisses something as deserving mockery.
+    Example: That outfit is ridiculous.
+  - Spelling: right
+    Categories[1]: DOL
+    Explanation: Often used to justify demands or entitlement without considering others' needs.
+    Example: I have a right to be angry.
   - Spelling: right to
     Categories[1]: DOL
     Explanation: Often used to justify demands or entitlement without considering others' needs.
     Example: I have a right to be angry.
+  - Spelling: rigid
+    Categories[1]: MJ
+    Explanation: Judges a lack of flexibility.
+    Example: He is too rigid in his thinking.
   - Spelling: rude
     Categories[1]: MJ
     Explanation: A judgement about someone's manners instead of expressing how their actions affected you.
     Example: It was rude of him to leave early.
+  - Spelling: sabotaged
+    Categories[1]: IDF
+    Explanation: Diagnoses an intentional disruption of one's efforts.
+    Example: I feel my work is being sabotaged.
   - Spelling: selfish
     Categories[1]: MJ
     Explanation: Diagnoses someone's motives as caring only for themselves.
     Example: You are being selfish for not sharing.
+  - Spelling: shallow
+    Categories[1]: MJ
+    Explanation: Judges a lack of depth or serious thought.
+    Example: She only cares about looks; she's so shallow.
   - Spelling: should
     Categories[2]: MD,MJ
-    Explanation: Expresses a desire as a demand and implies blame or that someone is wrong if they don't comply.
-    Example: You should know better than to do that.
+    Explanation: Expresses a desire as a demand and implies blame.
+    Example: You should know better.
   - Spelling: shouldn't
     Categories[2]: MD,MJ
     Explanation: A negative demand implying that doing an action is wrong.
     Example: You shouldn't speak to me that way.
+  - Spelling: sloppy
+    Categories[1]: MJ
+    Explanation: Judges work or appearance as careless.
+    Example: This report is sloppy.
+  - Spelling: slow
+    Categories[1]: MJ
+    Explanation: "When used judgementally, criticizes intelligence or speed."
+    Example: He is a bit slow to catch on.
   - Spelling: smarter
     Categories[1]: COMP
     Explanation: "Compares intelligence, creating a hierarchy."
     Example: He thinks he is smarter than everyone else.
+  - Spelling: smothered
+    Categories[1]: IDF
+    Explanation: Interprets someone else's attention as excessively restrictive.
+    Example: I feel smothered by your affection.
+  - Spelling: smug
+    Categories[1]: MJ
+    Explanation: Judges someone as showing excessive pride in themselves.
+    Example: Wipe that smug look off your face.
+  - Spelling: snob
+    Categories[1]: MJ
+    Explanation: Labels someone who believes they are superior in taste or class.
+    Example: She is such a wine snob.
+  - Spelling: spoiled
+    Categories[1]: MJ
+    Explanation: Judges someone as ruined by getting everything they want.
+    Example: He acts like a spoiled child.
+  - Spelling: stubborn
+    Categories[1]: MJ
+    Explanation: Judges someone's refusal to change their mind or actions.
+    Example: She is too stubborn to compromise.
   - Spelling: stupid
     Categories[1]: MJ
     Explanation: A label that diagnoses or criticizes someone's intelligence instead of observing facts.
     Example: That was a stupid mistake.
+  - Spelling: suffocated
+    Categories[1]: IDF
+    Explanation: Similar to smothered; diagnoses the other's behavior as limiting freedom.
+    Example: I feel suffocated in this relationship.
+  - Spelling: superficial
+    Categories[1]: MJ
+    Explanation: Judges a lack of depth or genuineness.
+    Example: Their relationship seems very superficial.
   - Spelling: superior
     Categories[1]: COMP
     Explanation: Compares someone favorably in a way that distances them from others.
@@ -203,46 +691,130 @@
     Categories[1]: DR
     Explanation: Refers to vague external rules or expectations to justify actions.
     Example: I am supposed to be there at eight.
+  - Spelling: tacky
+    Categories[1]: MJ
+    Explanation: Judges a lack of taste or style.
+    Example: That decoration is tacky.
   - Spelling: taken for granted
     Categories[1]: IDF
     Explanation: A judgement about someone else's lack of appreciation.
     Example: I feel taken for granted here.
+  - Spelling: terrible
+    Categories[1]: MJ
+    Explanation: A strong negative judgement.
+    Example: The food was terrible.
   - Spelling: thoughtless
     Categories[1]: MJ
     Explanation: Assumes a lack of consideration for others.
-    Example: It was thoughtless of you to forget my birthday.
+    Example: It was thoughtless of you to forget.
+  - Spelling: threatened
+    Categories[1]: IDF
+    Explanation: Diagnoses someone's intent to cause harm.
+    Example: I feel threatened by his presence.
+  - Spelling: toxic
+    Categories[1]: MJ
+    Explanation: A popular label used to broadly judge people or environments as harmful.
+    Example: She is a toxic friend.
+  - Spelling: trampled
+    Categories[1]: IDF
+    Explanation: Interprets one's boundaries as being aggressively crossed.
+    Example: I feel trampled on.
+  - Spelling: trapped
+    Categories[1]: IDF
+    Explanation: Interprets the situation or others as preventing escape.
+    Example: I feel trapped in this job.
+  - Spelling: typical
+    Categories[1]: COMP
+    Explanation: "Compares an action to an expected norm, often dismissively."
+    Example: That is a typical response from him.
+  - Spelling: ugly
+    Categories[1]: MJ
+    Explanation: A harsh judgement of appearance or nature.
+    Example: That is an ugly sweater.
+  - Spelling: ultimatum
+    Categories[1]: MD
+    Explanation: A final demand accompanied by a threat.
+    Example: She gave me an ultimatum.
+  - Spelling: unable
+    Categories[1]: DR
+    Explanation: Often substitutes lack of willingness for lack of ability.
+    Example: I am unable to assist you.
+  - Spelling: unacceptable
+    Categories[1]: MJ
+    Explanation: A formal judgement rejecting something completely.
+    Example: This level of work is unacceptable.
   - Spelling: unappreciated
     Categories[1]: IDF
     Explanation: A judgement about someone else's level of gratitude.
-    Example: I feel unappreciated for all the work I do.
+    Example: I feel unappreciated.
+  - Spelling: unearned
+    Categories[1]: DOL
+    Explanation: Judges something as received without sufficient merit.
+    Example: That was an unearned compliment.
   - Spelling: unfair
     Categories[1]: MJ
-    Explanation: A moralistic judgement about equity that can block understanding of the underlying needs.
-    Example: It's unfair that she got the promotion.
+    Explanation: A moralistic judgement about equity.
+    Example: It's unfair that she won.
   - Spelling: unheard
     Categories[1]: IDF
     Explanation: Diagnoses the other person as not listening.
-    Example: I feel unheard in this relationship.
+    Example: I feel unheard.
   - Spelling: unprofessional
     Categories[1]: MJ
     Explanation: A vague label used to criticize behavior in a work setting without specifying what happened.
     Example: Her attire was highly unprofessional.
+  - Spelling: unreasonable
+    Categories[1]: MJ
+    Explanation: Judges someone's demands or views as not guided by logic.
+    Example: You are being unreasonable.
+  - Spelling: unreliable
+    Categories[1]: MJ
+    Explanation: Judges someone as not trustworthy to perform a task.
+    Example: He is totally unreliable.
+  - Spelling: unseen
+    Categories[1]: IDF
+    Explanation: Interprets others as failing to notice one.
+    Example: I feel unseen.
+  - Spelling: unsupported
+    Categories[1]: IDF
+    Explanation: Diagnoses a lack of backing from others.
+    Example: I feel unsupported by management.
+  - Spelling: unusual
+    Categories[1]: COMP
+    Explanation: "Compares something to the norm, subtly judging it."
+    Example: His methods are highly unusual.
   - Spelling: used
     Categories[1]: IDF
     Explanation: Diagnoses another's actions as exploitative.
-    Example: I feel used after helping them out.
+    Example: I feel used.
+  - Spelling: vain
+    Categories[1]: MJ
+    Explanation: Judges excessive pride in one's appearance or achievements.
+    Example: She is too vain to wear glasses.
   - Spelling: victimized
     Categories[1]: IDF
     Explanation: An interpretation of oneself as the target of unjust actions.
     Example: I feel victimized by the system.
+  - Spelling: violated
+    Categories[1]: IDF
+    Explanation: Diagnoses a severe crossing of personal boundaries.
+    Example: I felt violated by the intrusion.
   - Spelling: weak
     Categories[1]: MJ
     Explanation: A critical label regarding someone's resolve or strength.
     Example: He is too weak to stand up for himself.
+  - Spelling: weird
+    Categories[1]: MJ
+    Explanation: Judges something as strange or abnormal.
+    Example: That is a weird hobby.
   - Spelling: worse
     Categories[1]: COMP
     Explanation: A negative comparison implying inferiority.
     Example: His performance was worse than last year.
+  - Spelling: worst
+    Categories[1]: COMP
+    Explanation: The ultimate negative comparison.
+    Example: That was the worst movie ever.
   - Spelling: wrong
     Categories[1]: MJ
     Explanation: A binary judgement categorizing behavior as incorrect or immoral.
