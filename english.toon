@@ -1,0 +1,37 @@
+[9]:
+  - Spelling: lazy
+    Categories[1]: MJ
+    Explanation: "Implies a moral failing or lack of character, rather than describing the specific behavior."
+    Example: He is too lazy to clean his room.
+  - Spelling: stupid
+    Categories[1]: MJ
+    Explanation: A label that diagnoses or criticizes someone's intelligence instead of observing facts.
+    Example: That was a stupid mistake.
+  - Spelling: better
+    Categories[1]: COMP
+    Explanation: A comparison that sets up a hierarchy and can block compassion for oneself or others.
+    Example: She is a better listener than you.
+  - Spelling: have to
+    Categories[1]: DR
+    Explanation: Obscures personal choice by suggesting one is forced to act.
+    Example: I have to go to work.
+  - Spelling: make me
+    Categories[1]: DR
+    Explanation: "Denies responsibility for one's own feelings and actions, attributing them to external factors."
+    Example: You make me so angry.
+  - Spelling: should
+    Categories[2]: MD,MJ
+    Explanation: Expresses a desire as a demand and implies blame or that someone is wrong if they don't comply.
+    Example: You should know better than to do that.
+  - Spelling: deserve
+    Categories[1]: DOL
+    Explanation: "Implies that certain behaviors warrant reward or punishment, rooted in moralistic thinking."
+    Example: He deserves to be punished for what he did.
+  - Spelling: ignored
+    Categories[1]: IDF
+    Explanation: "An interpretation of what someone else is doing, not an actual internal emotion (like feeling lonely or hurt)."
+    Example: I feel ignored by you.
+  - Spelling: manipulated
+    Categories[1]: IDF
+    Explanation: Describes a perception of someone else's intent rather than one's own feelings.
+    Example: I feel manipulated when you say that.
